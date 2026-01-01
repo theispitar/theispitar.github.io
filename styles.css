@@ -1,0 +1,17 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    margin: 125px;
+}
+
+.ascii {
+    white-space: pre;
+    font-size: 12px;
+    line-height: 1;
+    margin: 16px;
+}
+
+main-container {
+    font-size: 14px;
+    line-height: 1;
+    margin: 16px;
+}
