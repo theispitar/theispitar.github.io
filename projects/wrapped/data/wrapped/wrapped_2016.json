@@ -1,0 +1,5548 @@
+{
+  "year": 2016,
+  "generated_at": "2026-01-07T10:09:24.665180+00:00",
+  "total_plays": 679,
+  "total_play_time_ms": 218580772,
+  "unique_artists": 37,
+  "unique_tracks": 434,
+  "unique_artists_list": [
+    "Amiensus",
+    "Animals as Leaders",
+    "BABYMETAL",
+    "Chelsea Wolfe",
+    "Deathspell Omega",
+    "Diablo Swing Orchestra",
+    "Divider",
+    "Godspeed You! Black Emperor",
+    "Gojira",
+    "Gorillaz",
+    "Incubus",
+    "Intronaut",
+    "Jaco Pastorius",
+    "Jamiroquai",
+    "Job for a Cowboy",
+    "Katherine Hymer",
+    "Kingdom of Sleep",
+    "Leprous",
+    "Lorde",
+    "Marilyn Manson",
+    "Mastodon",
+    "Merkabah",
+    "Muse",
+    "Nine Inch Nails",
+    "No Doubt",
+    "Opeth",
+    "Radiohead",
+    "Rage Against the Machine",
+    "Steak Number Eight",
+    "Steven Wilson",
+    "Tenhi",
+    "The Faceless",
+    "The Kilimanjaro Darkjazz Ensemble",
+    "The Offspring",
+    "Tool",
+    "Twelve Foot Ninja",
+    "Twilight Fauna"
+  ],
+  "unique_albums_list": [
+    "10,000 Days",
+    "4 1/2",
+    "A Lament for the Lamb",
+    "Absolution",
+    "Abyss",
+    "All Barren",
+    "Americana",
+    "Amnesiac",
+    "Animals as Leaders - Encore Edition",
+    "Asunder, Sweet and Other Distress",
+    "Autotheism",
+    "BABYMETAL",
+    "Black Holes & Revelations",
+    "Blood Mountain (U.S. Version)",
+    "Coal",
+    "Damnation",
+    "Deliverance",
+    "Deliverance & Damnation Remixed",
+    "Demon Days",
+    "From Mars to Sirius",
+    "Habitual Levitations (Instilling Words With Tones)",
+    "Hail to the Thief",
+    "Hand Cannot Erase",
+    "Hand. Cannot. Erase",
+    "Here Be Dragons",
+    "Heritage",
+    "In Rainbows",
+    "Insurgentes",
+    "Jaco Pastorius",
+    "Kid A",
+    "Kosmokoma",
+    "L'Enfant Sauvage",
+    "Lateralus",
+    "METAL RESISTANCE",
+    "Magma",
+    "Make Yourself",
+    "Mechanical Animals",
+    "Monsters",
+    "Morning View",
+    "Mutations",
+    "NIN",
+    "OK Computer",
+    "Origin of Symmetry",
+    "Outlier",
+    "Pale Communion",
+    "Pandora's Piñata",
+    "Paracletus",
+    "Pure Heroine",
+    "Rage Against the Machine",
+    "Restoration",
+    "Saivo",
+    "Sorceress",
+    "Spectre",
+    "Sun Eater",
+    "Terra Incognita",
+    "The 2nd Law",
+    "The Congregation",
+    "The Direction of Last Things",
+    "The Essential Jaco Pastorius",
+    "The Link",
+    "The Love Club",
+    "The Return Of The Space Cowboy",
+    "The Singles 1992 - 2003",
+    "The Way of All Flesh",
+    "Transience",
+    "Valley Of Smoke",
+    "Watershed",
+    "fire of the spirit"
+  ],
+  "unique_tracks_list": [
+    {
+      "artist": "Amiensus",
+      "track": "Become the Fear"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Behaving Badly"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "CAFO"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Inamorata"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Kalimba - Bonus Track"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Modern Meat"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "On Impulse"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Orea - Demo"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Point to Point"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Song of Solomon"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Soraya"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Tempting Time"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Tessitura"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "The Price of Everything and the Value of Nothing"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Thoroughly at Home"
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Wave of Babies"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "4 no Uta"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Awadama Fever"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "DO・KI・DO・KI☆Morning"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Gimme Chocolate!!"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "KARATE"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Megitsune"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Onedari Daisakusen"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Road of Resistance"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "YAVA!"
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "ii ne!"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "track": "Carrion Flowers"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "track": "Iron Moon"
+    },
+    {
+      "artist": "Deathspell Omega",
+      "track": "Abscission"
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Guerrilla Laments"
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Kevlar Sweethearts"
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Voodoo Mon Amour"
+    },
+    {
+      "artist": "Divider",
+      "track": "All Barren"
+    },
+    {
+      "artist": "Divider",
+      "track": "Crow Eater"
+    },
+    {
+      "artist": "Divider",
+      "track": "Empty Beds"
+    },
+    {
+      "artist": "Divider",
+      "track": "Poisoned Arrows"
+    },
+    {
+      "artist": "Divider",
+      "track": "Requisite"
+    },
+    {
+      "artist": "Divider",
+      "track": "Ruin"
+    },
+    {
+      "artist": "Divider",
+      "track": "Salt and Bone"
+    },
+    {
+      "artist": "Divider",
+      "track": "Silently Marching"
+    },
+    {
+      "artist": "Divider",
+      "track": "The Devouring"
+    },
+    {
+      "artist": "Divider",
+      "track": "Turning the Soil"
+    },
+    {
+      "artist": "Divider",
+      "track": "Viscera"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Asunder, Sweet"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Lambs’ Breath"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Peasantry or ‘Light! Inside of Light!’"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Piss Crowns Are Trebled"
+    },
+    {
+      "artist": "Gojira",
+      "track": "04"
+    },
+    {
+      "artist": "Gojira",
+      "track": "1990 Quatrillions de Tonnes"
+    },
+    {
+      "artist": "Gojira",
+      "track": "5988 Trillions de Tonnes"
+    },
+    {
+      "artist": "Gojira",
+      "track": "A Sight to Behold"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Adoration for None"
+    },
+    {
+      "artist": "Gojira",
+      "track": "All the Tears"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Backbone"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Blow Me Away You(niverse)"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Born in Winter"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Clone"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Connected"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Dawn"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Death of Me"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Deliverance"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Embrace the World"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Esoteric Surgery"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Explosia"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Fire Is Everything"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Flying Whales"
+    },
+    {
+      "artist": "Gojira",
+      "track": "From Mars"
+    },
+    {
+      "artist": "Gojira",
+      "track": "From the Sky"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Global Warming"
+    },
+    {
+      "artist": "Gojira",
+      "track": "In the Forest"
+    },
+    {
+      "artist": "Gojira",
+      "track": "In the Wilderness"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Indians"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Inward Movement"
+    },
+    {
+      "artist": "Gojira",
+      "track": "L'Enfant Sauvage"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Liberation"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Liquid Fire"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Lizard Skin"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Love"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Low Lands"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Magma"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Mouth of Kala"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Ocean Planet"
+    },
+    {
+      "artist": "Gojira",
+      "track": "On The B.O.T.A."
+    },
+    {
+      "artist": "Gojira",
+      "track": "Only Pain"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Oroborus"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Over the Flows"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Pain Is a Master"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Planned Obsolescence"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Pray"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Remembrance"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Rise"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Satan Is a Lawyer"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Silvera"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Space Time"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Stranded"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Art of Dying"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Axe"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Cell"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Fall"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Gift of Guilt"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Heaviest Matter of the Universe"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Link"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Shooting Star"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Silver Cord"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Way of All Flesh"
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Wild Healer"
+    },
+    {
+      "artist": "Gojira",
+      "track": "To Sirius"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Torii"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Toxic Garbage Island"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Unicorn"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Vacuity"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Where Dragons Dwell"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Wisdom Comes"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Wolf Down the Earth"
+    },
+    {
+      "artist": "Gojira",
+      "track": "World to Come"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Yama's Messengers"
+    },
+    {
+      "artist": "Gojira",
+      "track": "Yellow Stone"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "All Alone"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "DARE"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Dirty Harry"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "El Mañana"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Every Planet We Reach Is Dead"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Feel Good Inc."
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Fire Coming Out Of The Monkey's H"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Intro"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Kids with Guns"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Last Living Souls"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "November Has Come"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "O Green World"
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "White Light"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Circles"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Make Yourself"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Nice to Know You"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Pardon Me"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Privilege"
+    },
+    {
+      "artist": "Incubus",
+      "track": "Wish You Were Here"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "A Sore Sight For Eyes"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Above"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Below"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Blood From A Stone"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "City Hymnal"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Core Relations"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Digital Gerrymandering"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Elegy"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Eventual"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Fast Worms"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Harmonomicon"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Killing Birds With Stones"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Miasma"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Milk Leg"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Past Tense"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Steps"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Sul Ponticello"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Sunderance"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Direction Of Last Things"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Pleasant Surprise"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Unlikely Event Of A Water Landing"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Way Down"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Welding"
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Valley Of Smoke"
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Forgotten Love"
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Opus Pocus"
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Portrait Of Tracy"
+    },
+    {
+      "artist": "Jamiroquai",
+      "track": "Light Years"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "A Global Shift"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Buried Monuments"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Eating the Visions of God"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Encircled by Mirrors"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Sun of Nihility"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Celestial Antidote"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Stone Cross"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Synthetic Sea"
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Worming Nightfall"
+    },
+    {
+      "artist": "Katherine Hymer",
+      "track": "Institutions"
+    },
+    {
+      "artist": "Kingdom of Sleep",
+      "track": "Face The Storm Together"
+    },
+    {
+      "artist": "Kingdom of Sleep",
+      "track": "Face the storm together (bass tutorial)"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Chronic"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Coal"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Contaminate Me"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Echo"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Foe"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Red"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Rewind"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Salt"
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Cloak"
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Flood"
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Price"
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Valley"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Third Law"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Triumphant"
+    },
+    {
+      "artist": "Leprous",
+      "track": "Within My Fence"
+    },
+    {
+      "artist": "Lorde",
+      "track": "400 Lux"
+    },
+    {
+      "artist": "Lorde",
+      "track": "A World Alone"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Biting Down"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Bravado"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Buzzcut Season"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Glory and Gore"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Million Dollar Bills"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Ribs"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Royals"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Still Sane"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Swingin Party"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Team"
+    },
+    {
+      "artist": "Lorde",
+      "track": "Tennis Court"
+    },
+    {
+      "artist": "Lorde",
+      "track": "The Love Club"
+    },
+    {
+      "artist": "Lorde",
+      "track": "White Teeth Teens"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Coma White"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Disassociative"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Fundamentally Loathsome"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Great Big White World"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "I Don't Like the Drugs (But the Drugs Like Me)"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "I Want to Disappear"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Mechanical Animals"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "New Model No. 15"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Posthuman"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Rock Is Dead"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Dope Show"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Last Day on Earth"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Speed of Pain"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "User Friendly"
+    },
+    {
+      "artist": "Mastodon",
+      "track": "Crystal Skull"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Deconstruction Mass"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Divine Times"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Tetrahedron"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "The Occultation"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "The Tyburn Tree"
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Twelver"
+    },
+    {
+      "artist": "Muse",
+      "track": "Apocalypse Please"
+    },
+    {
+      "artist": "Muse",
+      "track": "Blackout"
+    },
+    {
+      "artist": "Muse",
+      "track": "Bliss"
+    },
+    {
+      "artist": "Muse",
+      "track": "City of Delusion"
+    },
+    {
+      "artist": "Muse",
+      "track": "Feeling Good"
+    },
+    {
+      "artist": "Muse",
+      "track": "Follow Me"
+    },
+    {
+      "artist": "Muse",
+      "track": "Hoodoo"
+    },
+    {
+      "artist": "Muse",
+      "track": "Hysteria"
+    },
+    {
+      "artist": "Muse",
+      "track": "Interlude"
+    },
+    {
+      "artist": "Muse",
+      "track": "Knights of Cydonia"
+    },
+    {
+      "artist": "Muse",
+      "track": "Megalomania"
+    },
+    {
+      "artist": "Muse",
+      "track": "Micro Cuts"
+    },
+    {
+      "artist": "Muse",
+      "track": "New Born"
+    },
+    {
+      "artist": "Muse",
+      "track": "Plug In Baby"
+    },
+    {
+      "artist": "Muse",
+      "track": "Ruled by Secrecy"
+    },
+    {
+      "artist": "Muse",
+      "track": "Sing for Absolution"
+    },
+    {
+      "artist": "Muse",
+      "track": "Starlight"
+    },
+    {
+      "artist": "Muse",
+      "track": "Take a Bow"
+    },
+    {
+      "artist": "Muse",
+      "track": "The Small Print"
+    },
+    {
+      "artist": "Muse",
+      "track": "Thoughts of a Dying Atheist"
+    },
+    {
+      "artist": "Muse",
+      "track": "Time Is Running Out"
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "track": "Deep"
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "track": "Down in It"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Bathwater"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Don't Speak"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Ex-Girlfriend"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Excuse Me Mr."
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Hey Baby"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "It's My Life"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Just a Girl"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Simple Kind of Life"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Spiderwebs"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Sunday Morning"
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Underneath It All"
+    },
+    {
+      "artist": "Opeth",
+      "track": "A Fair Judgement"
+    },
+    {
+      "artist": "Opeth",
+      "track": "A Fleeting Glance"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Burden"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Chrysalis"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Closure"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Closure - Remixed"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Coil"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Cusp of Eternity"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Cusp of Eternity - Live"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Death Whispered a Lullaby"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Death Whispered a Lullaby - Remixed"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Deliverance"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Elysian Woes"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Era"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Eternal Rains Will Come"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Faith in Others"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Famine"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Folklore"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Goblin"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Heir Apparent"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Hessian Peel"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Hope Leaves"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Häxprocess"
+    },
+    {
+      "artist": "Opeth",
+      "track": "In My Time of Need - Remixed"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Marrow of the Earth"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Moon Above, Sun Below"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Persephone"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Persephone (Slight Return)"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Porcelain Heart"
+    },
+    {
+      "artist": "Opeth",
+      "track": "River"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Sorceress"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Sorceress 2"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Spring MCMLXXIV"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Strange Brew"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Drapery Falls - Live"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Lines in My Hand"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Lotus Eater"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Seventh Sojourn"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Ward"
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Wilde Flowers"
+    },
+    {
+      "artist": "Opeth",
+      "track": "To Rid the Disease"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Voice of Treason"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Voice of Treason - Live"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Will o the Wisp"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Windowpane - Remixed"
+    },
+    {
+      "artist": "Opeth",
+      "track": "Wreath - Remixed"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "15 Step"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "2 + 2 = 5 (The Lukewarm.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "4 Minute Warning"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Airbag"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "All I Need"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Backdrifts. (Honeymoon Is Over.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Bangers And Mash"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Bodysnatchers"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Climbing Up the Walls"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Dollars & Cents"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Down Is the New Up"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Electioneering"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Everything in Its Right Place"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Exit Music (for a Film)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Faust Arp"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Fitter Happier"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Go Slowly"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Go to Sleep. (Little Man Being Erased.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "House of Cards"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "How to Disappear Completely"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Hunting Bears"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "I Might Be Wrong"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Idioteque"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "In Limbo"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Jigsaw Falling Into Place"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Karma Police"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Kid A"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Knives Out"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Last Flowers To The Hospital"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Let Down"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Life in a Glass House"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Like Spinning Plates"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Lucky"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "MK 1"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "MK2"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Morning Bell"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Morning Bell/Amnesiac"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Motion Picture Soundtrack"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "No Surprises"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Nude"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Optimistic"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Packt Like Sardines in a Crushd Tin Box"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Paranoid Android"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pulk/Pull Revolving Doors"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pull/Pulk Revolving Doors"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pyramid Song"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Reckoner"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Sit Down. Stand Up. (Snakes & Ladders.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Spectre"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Subterranean Homesick Alien"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The Gloaming. (Softly Open Our Mouths in the Cold.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The National Anthem"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The Tourist"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "There There. (The Boney King of Nowhere.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Treefingers"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Up on the Ladder"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Videotape"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "We Suck Young Blood. (Your Time Is Up.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Weird Fishes/Arpeggi"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Where I End and You Begin. (The Sky Is Falling In.)"
+    },
+    {
+      "artist": "Radiohead",
+      "track": "You and Whose Army?"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Bombtrack"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Bullet in the Head"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Fistful of Steel"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Killing in the Name"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Know Your Enemy"
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Wake Up"
+    },
+    {
+      "artist": "Steak Number Eight",
+      "track": "Return Of The Kolomon"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Ancestral"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "First Regret / 3 Years Older"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Hand Cannot Erase"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Happy Returns / Ascendant Here On"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Happy Returns / Ascendant Here On..."
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Harmony Korine (2016 Remaster)"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Home Invasion / Regret #9"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "No Twilight Within the Courts of the Sun"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Perfect Life"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Postcard"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Routine"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Significant Other"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Significant Other (2016 Remaster)"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "TRANSIENCE - SINGLE VERSION"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Transience"
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Vermillioncore"
+    },
+    {
+      "artist": "Tenhi",
+      "track": "Pojan Kiiski"
+    },
+    {
+      "artist": "Tenhi",
+      "track": "Saivon Kimallus"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Accelerated Evolution"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement I: Create"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement II: Emancipate"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement III: Deconsecrate"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Hail Science"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Hymn Of Sanity"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "In Solitude"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Ten Billion Years"
+    },
+    {
+      "artist": "The Faceless",
+      "track": "The Eidolon Reality"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Avian Lung"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Caos Calmo"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Caravan!"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Embers"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Horns of King David"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Lead Squid"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Mists of Krakatoa"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "München"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Samhain Labs"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Scirocco"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Seneca"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Serpent"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Shadows"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Sharbat Gula"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Symmetry of 6's"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "The MacGuffin"
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Twisted Horizons"
+    },
+    {
+      "artist": "The Offspring",
+      "track": "Americana"
+    },
+    {
+      "artist": "The Offspring",
+      "track": "Pay the Man"
+    },
+    {
+      "artist": "Tool",
+      "track": "Lateralis"
+    },
+    {
+      "artist": "Tool",
+      "track": "Mantra"
+    },
+    {
+      "artist": "Tool",
+      "track": "Right in Two"
+    },
+    {
+      "artist": "Tool",
+      "track": "Rosetta Stoned"
+    },
+    {
+      "artist": "Tool",
+      "track": "Schism"
+    },
+    {
+      "artist": "Tool",
+      "track": "Wings for Marie (Part 1)"
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Collateral"
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Invincible"
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "One Hand Killing"
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Oxygen"
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Sick"
+    },
+    {
+      "artist": "Twilight Fauna",
+      "track": "Walking with the Ghost"
+    }
+  ],
+  "artist_play_counts": [
+    {
+      "name": "Opeth",
+      "plays": 162
+    },
+    {
+      "name": "Gojira",
+      "plays": 102
+    },
+    {
+      "name": "Radiohead",
+      "plays": 83
+    },
+    {
+      "name": "No Doubt",
+      "plays": 31
+    },
+    {
+      "name": "Intronaut",
+      "plays": 27
+    },
+    {
+      "name": "Steven Wilson",
+      "plays": 26
+    },
+    {
+      "name": "Lorde",
+      "plays": 25
+    },
+    {
+      "name": "Muse",
+      "plays": 24
+    },
+    {
+      "name": "Divider",
+      "plays": 20
+    },
+    {
+      "name": "Job for a Cowboy",
+      "plays": 20
+    },
+    {
+      "name": "The Kilimanjaro Darkjazz Ensemble",
+      "plays": 17
+    },
+    {
+      "name": "Leprous",
+      "plays": 15
+    },
+    {
+      "name": "Animals as Leaders",
+      "plays": 15
+    },
+    {
+      "name": "Marilyn Manson",
+      "plays": 14
+    },
+    {
+      "name": "Gorillaz",
+      "plays": 13
+    },
+    {
+      "name": "BABYMETAL",
+      "plays": 10
+    },
+    {
+      "name": "Rage Against the Machine",
+      "plays": 10
+    },
+    {
+      "name": "The Faceless",
+      "plays": 9
+    },
+    {
+      "name": "Tool",
+      "plays": 8
+    },
+    {
+      "name": "Merkabah",
+      "plays": 6
+    },
+    {
+      "name": "Kingdom of Sleep",
+      "plays": 6
+    },
+    {
+      "name": "Incubus",
+      "plays": 6
+    },
+    {
+      "name": "Twelve Foot Ninja",
+      "plays": 5
+    },
+    {
+      "name": "Godspeed You! Black Emperor",
+      "plays": 4
+    },
+    {
+      "name": "Jaco Pastorius",
+      "plays": 3
+    },
+    {
+      "name": "Diablo Swing Orchestra",
+      "plays": 3
+    },
+    {
+      "name": "The Offspring",
+      "plays": 2
+    },
+    {
+      "name": "Nine Inch Nails",
+      "plays": 2
+    },
+    {
+      "name": "Chelsea Wolfe",
+      "plays": 2
+    },
+    {
+      "name": "Tenhi",
+      "plays": 2
+    },
+    {
+      "name": "Steak Number Eight",
+      "plays": 1
+    },
+    {
+      "name": "Jamiroquai",
+      "plays": 1
+    },
+    {
+      "name": "Katherine Hymer",
+      "plays": 1
+    },
+    {
+      "name": "Mastodon",
+      "plays": 1
+    },
+    {
+      "name": "Deathspell Omega",
+      "plays": 1
+    },
+    {
+      "name": "Amiensus",
+      "plays": 1
+    },
+    {
+      "name": "Twilight Fauna",
+      "plays": 1
+    }
+  ],
+  "album_play_counts": [
+    {
+      "name": "Pale Communion",
+      "plays": 96
+    },
+    {
+      "name": "Sorceress",
+      "plays": 35
+    },
+    {
+      "name": "The Singles 1992 - 2003",
+      "plays": 31
+    },
+    {
+      "name": "L'Enfant Sauvage",
+      "plays": 28
+    },
+    {
+      "name": "Pure Heroine",
+      "plays": 20
+    },
+    {
+      "name": "All Barren",
+      "plays": 20
+    },
+    {
+      "name": "Sun Eater",
+      "plays": 20
+    },
+    {
+      "name": "Amnesiac",
+      "plays": 19
+    },
+    {
+      "name": "In Rainbows",
+      "plays": 18
+    },
+    {
+      "name": "From Mars to Sirius",
+      "plays": 18
+    },
+    {
+      "name": "Magma",
+      "plays": 16
+    },
+    {
+      "name": "The Way of All Flesh",
+      "plays": 15
+    },
+    {
+      "name": "Animals as Leaders - Encore Edition",
+      "plays": 15
+    },
+    {
+      "name": "Terra Incognita",
+      "plays": 14
+    },
+    {
+      "name": "Mechanical Animals",
+      "plays": 14
+    },
+    {
+      "name": "Demon Days",
+      "plays": 13
+    },
+    {
+      "name": "OK Computer",
+      "plays": 12
+    },
+    {
+      "name": "Absolution",
+      "plays": 11
+    },
+    {
+      "name": "The Link",
+      "plays": 11
+    },
+    {
+      "name": "Valley Of Smoke",
+      "plays": 11
+    },
+    {
+      "name": "Spectre",
+      "plays": 11
+    },
+    {
+      "name": "Kid A",
+      "plays": 10
+    },
+    {
+      "name": "Rage Against the Machine",
+      "plays": 10
+    },
+    {
+      "name": "Hand Cannot Erase",
+      "plays": 10
+    },
+    {
+      "name": "Hand. Cannot. Erase",
+      "plays": 9
+    },
+    {
+      "name": "Hail to the Thief",
+      "plays": 9
+    },
+    {
+      "name": "Autotheism",
+      "plays": 9
+    },
+    {
+      "name": "Here Be Dragons",
+      "plays": 9
+    },
+    {
+      "name": "Habitual Levitations (Instilling Words With Tones)",
+      "plays": 9
+    },
+    {
+      "name": "Coal",
+      "plays": 8
+    },
+    {
+      "name": "Mutations",
+      "plays": 8
+    },
+    {
+      "name": "Damnation",
+      "plays": 7
+    },
+    {
+      "name": "Watershed",
+      "plays": 7
+    },
+    {
+      "name": "Origin of Symmetry",
+      "plays": 7
+    },
+    {
+      "name": "Deliverance",
+      "plays": 7
+    },
+    {
+      "name": "The Direction of Last Things",
+      "plays": 7
+    },
+    {
+      "name": "The Congregation",
+      "plays": 7
+    },
+    {
+      "name": "A Lament for the Lamb",
+      "plays": 6
+    },
+    {
+      "name": "BABYMETAL",
+      "plays": 6
+    },
+    {
+      "name": "Deliverance & Damnation Remixed",
+      "plays": 5
+    },
+    {
+      "name": "Heritage",
+      "plays": 5
+    },
+    {
+      "name": "Black Holes & Revelations",
+      "plays": 5
+    },
+    {
+      "name": "The Love Club",
+      "plays": 5
+    },
+    {
+      "name": "Lateralus",
+      "plays": 5
+    },
+    {
+      "name": "Outlier",
+      "plays": 5
+    },
+    {
+      "name": "METAL RESISTANCE",
+      "plays": 4
+    },
+    {
+      "name": "Transience",
+      "plays": 4
+    },
+    {
+      "name": "Asunder, Sweet and Other Distress",
+      "plays": 4
+    },
+    {
+      "name": "Make Yourself",
+      "plays": 3
+    },
+    {
+      "name": "Morning View",
+      "plays": 3
+    },
+    {
+      "name": "Pandora's Piñata",
+      "plays": 3
+    },
+    {
+      "name": "10,000 Days",
+      "plays": 3
+    },
+    {
+      "name": "Insurgentes",
+      "plays": 2
+    },
+    {
+      "name": "Americana",
+      "plays": 2
+    },
+    {
+      "name": "NIN",
+      "plays": 2
+    },
+    {
+      "name": "The Essential Jaco Pastorius",
+      "plays": 2
+    },
+    {
+      "name": "Abyss",
+      "plays": 2
+    },
+    {
+      "name": "Saivo",
+      "plays": 2
+    },
+    {
+      "name": "Kosmokoma",
+      "plays": 1
+    },
+    {
+      "name": "Jaco Pastorius",
+      "plays": 1
+    },
+    {
+      "name": "The Return Of The Space Cowboy",
+      "plays": 1
+    },
+    {
+      "name": "The 2nd Law",
+      "plays": 1
+    },
+    {
+      "name": "Monsters",
+      "plays": 1
+    },
+    {
+      "name": "Blood Mountain (U.S. Version)",
+      "plays": 1
+    },
+    {
+      "name": "4 1/2",
+      "plays": 1
+    },
+    {
+      "name": "Paracletus",
+      "plays": 1
+    },
+    {
+      "name": "Restoration",
+      "plays": 1
+    },
+    {
+      "name": "fire of the spirit",
+      "plays": 1
+    }
+  ],
+  "track_play_counts": [
+    {
+      "artist": "Opeth",
+      "track": "Eternal Rains Will Come",
+      "plays": 54
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Spectre",
+      "plays": 15
+    },
+    {
+      "artist": "Opeth",
+      "track": "Cusp of Eternity",
+      "plays": 9
+    },
+    {
+      "artist": "Divider",
+      "track": "Crow Eater",
+      "plays": 8
+    },
+    {
+      "artist": "Opeth",
+      "track": "Moon Above, Sun Below",
+      "plays": 7
+    },
+    {
+      "artist": "Opeth",
+      "track": "Elysian Woes",
+      "plays": 7
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Sun of Nihility",
+      "plays": 7
+    },
+    {
+      "artist": "Opeth",
+      "track": "Goblin",
+      "plays": 6
+    },
+    {
+      "artist": "Opeth",
+      "track": "River",
+      "plays": 5
+    },
+    {
+      "artist": "Opeth",
+      "track": "Voice of Treason",
+      "plays": 5
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Spiderwebs",
+      "plays": 5
+    },
+    {
+      "artist": "Opeth",
+      "track": "Deliverance",
+      "plays": 5
+    },
+    {
+      "artist": "Kingdom of Sleep",
+      "track": "Face The Storm Together",
+      "plays": 4
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Just a Girl",
+      "plays": 4
+    },
+    {
+      "artist": "No Doubt",
+      "track": "It's My Life",
+      "plays": 4
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Bathwater",
+      "plays": 4
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Sunday Morning",
+      "plays": 4
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Excuse Me Mr.",
+      "plays": 4
+    },
+    {
+      "artist": "Gojira",
+      "track": "Born in Winter",
+      "plays": 4
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Eating the Visions of God",
+      "plays": 4
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Shooting Star",
+      "plays": 4
+    },
+    {
+      "artist": "Opeth",
+      "track": "Death Whispered a Lullaby",
+      "plays": 3
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Hand Cannot Erase",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Faith in Others",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "Mouth of Kala",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Gift of Guilt",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "Pain Is a Master",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Fall",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "Oroborus",
+      "plays": 3
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Stone Cross",
+      "plays": 3
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "First Regret / 3 Years Older",
+      "plays": 3
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Home Invasion / Regret #9",
+      "plays": 3
+    },
+    {
+      "artist": "Gojira",
+      "track": "Pray",
+      "plays": 3
+    },
+    {
+      "artist": "Tool",
+      "track": "Schism",
+      "plays": 3
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Killing in the Name",
+      "plays": 3
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Wake Up",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Persephone",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Sorceress",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Wilde Flowers",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Chrysalis",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Sorceress 2",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Seventh Sojourn",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Strange Brew",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "A Fleeting Glance",
+      "plays": 3
+    },
+    {
+      "artist": "Divider",
+      "track": "The Devouring",
+      "plays": 3
+    },
+    {
+      "artist": "Opeth",
+      "track": "Closure",
+      "plays": 2
+    },
+    {
+      "artist": "Opeth",
+      "track": "Burden",
+      "plays": 2
+    },
+    {
+      "artist": "Kingdom of Sleep",
+      "track": "Face the storm together (bass tutorial)",
+      "plays": 2
+    },
+    {
+      "artist": "Muse",
+      "track": "Micro Cuts",
+      "plays": 2
+    },
+    {
+      "artist": "Muse",
+      "track": "Interlude",
+      "plays": 2
+    },
+    {
+      "artist": "Muse",
+      "track": "Hysteria",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Tennis Court",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "400 Lux",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Royals",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Ribs",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Buzzcut Season",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Team",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Glory and Gore",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "Still Sane",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "White Teeth Teens",
+      "plays": 2
+    },
+    {
+      "artist": "Lorde",
+      "track": "A World Alone",
+      "plays": 2
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Underneath It All",
+      "plays": 2
+    },
+    {
+      "artist": "Opeth",
+      "track": "A Fair Judgement",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Ocean Planet",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Backbone",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "From the Sky",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Unicorn",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Where Dragons Dwell",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Heaviest Matter of the Universe",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Explosia",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "L'Enfant Sauvage",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Axe",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Liquid Fire",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Wild Healer",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Planned Obsolescence",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Toxic Garbage Island",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pyramid Song",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Knives Out",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Morning Bell/Amnesiac",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Dollars & Cents",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Hunting Bears",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Like Spinning Plates",
+      "plays": 2
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Life in a Glass House",
+      "plays": 2
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Perfect Life",
+      "plays": 2
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Routine",
+      "plays": 2
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Transience",
+      "plays": 2
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Ancestral",
+      "plays": 2
+    },
+    {
+      "artist": "Gojira",
+      "track": "Silvera",
+      "plays": 2
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Elegy",
+      "plays": 2
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Above",
+      "plays": 2
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Miasma",
+      "plays": 2
+    },
+    {
+      "artist": "Opeth",
+      "track": "Era",
+      "plays": 2
+    },
+    {
+      "artist": "Opeth",
+      "track": "Persephone (Slight Return)",
+      "plays": 2
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Ward",
+      "plays": 2
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "No Twilight Within the Courts of the Sun",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Significant Other",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Hope Leaves",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "To Rid the Disease",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Windowpane - Remixed",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "In My Time of Need - Remixed",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Death Whispered a Lullaby - Remixed",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Closure - Remixed",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Foe",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Chronic",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Coal",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Cloak",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Valley",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Salt",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Echo",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Contaminate Me",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Häxprocess",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Famine",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Lines in My Hand",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Folklore",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Marrow of the Earth",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Twelver",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Deconstruction Mass",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Divine Times",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "The Tyburn Tree",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "Tetrahedron",
+      "plays": 1
+    },
+    {
+      "artist": "Merkabah",
+      "track": "The Occultation",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Wreath - Remixed",
+      "plays": 1
+    },
+    {
+      "artist": "The Offspring",
+      "track": "Americana",
+      "plays": 1
+    },
+    {
+      "artist": "The Offspring",
+      "track": "Pay the Man",
+      "plays": 1
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "track": "Deep",
+      "plays": 1
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "track": "Down in It",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "New Born",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Plug In Baby",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Feeling Good",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Bliss",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Megalomania",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Apocalypse Please",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Time Is Running Out",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Sing for Absolution",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Blackout",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "The Small Print",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Thoughts of a Dying Atheist",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Ruled by Secrecy",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Take a Bow",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Starlight",
+      "plays": 1
+    },
+    {
+      "artist": "Lorde",
+      "track": "Bravado",
+      "plays": 1
+    },
+    {
+      "artist": "Lorde",
+      "track": "Swingin Party",
+      "plays": 1
+    },
+    {
+      "artist": "Lorde",
+      "track": "Million Dollar Bills",
+      "plays": 1
+    },
+    {
+      "artist": "Lorde",
+      "track": "The Love Club",
+      "plays": 1
+    },
+    {
+      "artist": "Lorde",
+      "track": "Biting Down",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Privilege",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Pardon Me",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Make Yourself",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Nice to Know You",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Circles",
+      "plays": 1
+    },
+    {
+      "artist": "Incubus",
+      "track": "Wish You Were Here",
+      "plays": 1
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Hey Baby",
+      "plays": 1
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Simple Kind of Life",
+      "plays": 1
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Don't Speak",
+      "plays": 1
+    },
+    {
+      "artist": "No Doubt",
+      "track": "Ex-Girlfriend",
+      "plays": 1
+    },
+    {
+      "artist": "Steak Number Eight",
+      "track": "Return Of The Kolomon",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "15 Step",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Bodysnatchers",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Nude",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Weird Fishes/Arpeggi",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "All I Need",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Faust Arp",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Reckoner",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "House of Cards",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Jigsaw Falling Into Place",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Videotape",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "MK 1",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Down Is the New Up",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Go Slowly",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "MK2",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Last Flowers To The Hospital",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Up on the Ladder",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Bangers And Mash",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "4 Minute Warning",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "2 + 2 = 5 (The Lukewarm.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Sit Down. Stand Up. (Snakes & Ladders.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Backdrifts. (Honeymoon Is Over.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Go to Sleep. (Little Man Being Erased.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Where I End and You Begin. (The Sky Is Falling In.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "We Suck Young Blood. (Your Time Is Up.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The Gloaming. (Softly Open Our Mouths in the Cold.)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "There There. (The Boney King of Nowhere.)",
+      "plays": 1
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Portrait Of Tracy",
+      "plays": 1
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Opus Pocus",
+      "plays": 1
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "track": "Forgotten Love",
+      "plays": 1
+    },
+    {
+      "artist": "Jamiroquai",
+      "track": "Light Years",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Road of Resistance",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "KARATE",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Awadama Fever",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "YAVA!",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Megitsune",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Gimme Chocolate!!",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "ii ne!",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "DO・KI・DO・KI☆Morning",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "Onedari Daisakusen",
+      "plays": 1
+    },
+    {
+      "artist": "BABYMETAL",
+      "track": "4 no Uta",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Flying Whales",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "In the Wilderness",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "World to Come",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "From Mars",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "To Sirius",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Global Warming",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "A Sight to Behold",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Yama's Messengers",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Silver Cord",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Adoration for None",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "All the Tears",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Art of Dying",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Esoteric Surgery",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Vacuity",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Wolf Down the Earth",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Way of All Flesh",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Intro",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Last Living Souls",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Kids with Guns",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "O Green World",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Dirty Harry",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Feel Good Inc.",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "El Mañana",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Every Planet We Reach Is Dead",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "November Has Come",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "All Alone",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "White Light",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "DARE",
+      "plays": 1
+    },
+    {
+      "artist": "Gorillaz",
+      "track": "Fire Coming Out Of The Monkey's H",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Link",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Death of Me",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Connected",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Remembrance",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Torii",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Indians",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Embrace the World",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Inward Movement",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Over the Flows",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Wisdom Comes",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Dawn",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Clone",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Lizard Skin",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Satan Is a Lawyer",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "04",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Blow Me Away You(niverse)",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "5988 Trillions de Tonnes",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Deliverance",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Space Time",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "On The B.O.T.A.",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Rise",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Fire Is Everything",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Love",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "1990 Quatrillions de Tonnes",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "In the Forest",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Everything in Its Right Place",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Kid A",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The National Anthem",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "How to Disappear Completely",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Treefingers",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Optimistic",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "In Limbo",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Idioteque",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Morning Bell",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Motion Picture Soundtrack",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Airbag",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Paranoid Android",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Subterranean Homesick Alien",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Exit Music (for a Film)",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Let Down",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Karma Police",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Fitter Happier",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Electioneering",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Climbing Up the Walls",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "No Surprises",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Lucky",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "The Tourist",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Packt Like Sardines in a Crushd Tin Box",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pulk/Pull Revolving Doors",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "You and Whose Army?",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "I Might Be Wrong",
+      "plays": 1
+    },
+    {
+      "artist": "Radiohead",
+      "track": "Pull/Pulk Revolving Doors",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Happy Returns / Ascendant Here On",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Follow Me",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "City of Delusion",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Hoodoo",
+      "plays": 1
+    },
+    {
+      "artist": "Muse",
+      "track": "Knights of Cydonia",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "The Cell",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Stranded",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Yellow Stone",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Magma",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Only Pain",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Low Lands",
+      "plays": 1
+    },
+    {
+      "artist": "Gojira",
+      "track": "Liberation",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Synthetic Sea",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "A Global Shift",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "The Celestial Antidote",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Encircled by Mirrors",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Buried Monuments",
+      "plays": 1
+    },
+    {
+      "artist": "Job for a Cowboy",
+      "track": "Worming Nightfall",
+      "plays": 1
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Voodoo Mon Amour",
+      "plays": 1
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Guerrilla Laments",
+      "plays": 1
+    },
+    {
+      "artist": "Diablo Swing Orchestra",
+      "track": "Kevlar Sweethearts",
+      "plays": 1
+    },
+    {
+      "artist": "Tool",
+      "track": "Wings for Marie (Part 1)",
+      "plays": 1
+    },
+    {
+      "artist": "Tool",
+      "track": "Lateralis",
+      "plays": 1
+    },
+    {
+      "artist": "Tool",
+      "track": "Mantra",
+      "plays": 1
+    },
+    {
+      "artist": "Tool",
+      "track": "Right in Two",
+      "plays": 1
+    },
+    {
+      "artist": "Tool",
+      "track": "Rosetta Stoned",
+      "plays": 1
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Bombtrack",
+      "plays": 1
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Bullet in the Head",
+      "plays": 1
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Know Your Enemy",
+      "plays": 1
+    },
+    {
+      "artist": "Rage Against the Machine",
+      "track": "Fistful of Steel",
+      "plays": 1
+    },
+    {
+      "artist": "Katherine Hymer",
+      "track": "Institutions",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Tempting Time",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Soraya",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Thoroughly at Home",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "On Impulse",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Tessitura",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Behaving Badly",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "The Price of Everything and the Value of Nothing",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "CAFO",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Inamorata",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Point to Point",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Modern Meat",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Song of Solomon",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Wave of Babies",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Kalimba - Bonus Track",
+      "plays": 1
+    },
+    {
+      "artist": "Animals as Leaders",
+      "track": "Orea - Demo",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement I: Create",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement II: Emancipate",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Autotheist Movement III: Deconsecrate",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Accelerated Evolution",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "The Eidolon Reality",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Ten Billion Years",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Hail Science",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "Hymn Of Sanity",
+      "plays": 1
+    },
+    {
+      "artist": "The Faceless",
+      "track": "In Solitude",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Great Big White World",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Dope Show",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Mechanical Animals",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Rock Is Dead",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Disassociative",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Speed of Pain",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Posthuman",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "I Want to Disappear",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "I Don't Like the Drugs (But the Drugs Like Me)",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "New Model No. 15",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "User Friendly",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Fundamentally Loathsome",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Last Day on Earth",
+      "plays": 1
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "Coma White",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Will o the Wisp",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Spring MCMLXXIV",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Cusp of Eternity - Live",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Drapery Falls - Live",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Voice of Treason - Live",
+      "plays": 1
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "One Hand Killing",
+      "plays": 1
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Sick",
+      "plays": 1
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Invincible",
+      "plays": 1
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Oxygen",
+      "plays": 1
+    },
+    {
+      "artist": "Twelve Foot Ninja",
+      "track": "Collateral",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "TRANSIENCE - SINGLE VERSION",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Harmony Korine (2016 Remaster)",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Postcard",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Significant Other (2016 Remaster)",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "All Barren",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Requisite",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Empty Beds",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Salt and Bone",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Poisoned Arrows",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Viscera",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Ruin",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Turning the Soil",
+      "plays": 1
+    },
+    {
+      "artist": "Divider",
+      "track": "Silently Marching",
+      "plays": 1
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Peasantry or ‘Light! Inside of Light!’",
+      "plays": 1
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Lambs’ Breath",
+      "plays": 1
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Asunder, Sweet",
+      "plays": 1
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "track": "Piss Crowns Are Trebled",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Caos Calmo",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "München",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Serpent",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Twisted Horizons",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Shadows",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Symmetry of 6's",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Horns of King David",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Avian Lung",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Lead Squid",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Caravan!",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Embers",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Scirocco",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Mists of Krakatoa",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Sharbat Gula",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Samhain Labs",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "Seneca",
+      "plays": 1
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "track": "The MacGuffin",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Coil",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Heir Apparent",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "The Lotus Eater",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Porcelain Heart",
+      "plays": 1
+    },
+    {
+      "artist": "Opeth",
+      "track": "Hessian Peel",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Sunderance",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Core Relations",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Below",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Valley Of Smoke",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Past Tense",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Fast Worms",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Digital Gerrymandering",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Pleasant Surprise",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Unlikely Event Of A Water Landing",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Sul Ponticello",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Direction Of Last Things",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "City Hymnal",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Killing Birds With Stones",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Welding",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Steps",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "A Sore Sight For Eyes",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Milk Leg",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Harmonomicon",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Eventual",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "Blood From A Stone",
+      "plays": 1
+    },
+    {
+      "artist": "Intronaut",
+      "track": "The Way Down",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Price",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Third Law",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Rewind",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "The Flood",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Triumphant",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Within My Fence",
+      "plays": 1
+    },
+    {
+      "artist": "Leprous",
+      "track": "Red",
+      "plays": 1
+    },
+    {
+      "artist": "Mastodon",
+      "track": "Crystal Skull",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Happy Returns / Ascendant Here On...",
+      "plays": 1
+    },
+    {
+      "artist": "Steven Wilson",
+      "track": "Vermillioncore",
+      "plays": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "track": "Carrion Flowers",
+      "plays": 1
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "track": "Iron Moon",
+      "plays": 1
+    },
+    {
+      "artist": "Deathspell Omega",
+      "track": "Abscission",
+      "plays": 1
+    },
+    {
+      "artist": "Amiensus",
+      "track": "Become the Fear",
+      "plays": 1
+    },
+    {
+      "artist": "Tenhi",
+      "track": "Saivon Kimallus",
+      "plays": 1
+    },
+    {
+      "artist": "Tenhi",
+      "track": "Pojan Kiiski",
+      "plays": 1
+    },
+    {
+      "artist": "Twilight Fauna",
+      "track": "Walking with the Ghost",
+      "plays": 1
+    }
+  ],
+  "first_play": "2016-01-02T13:06:12+11:00",
+  "last_play": "2016-11-15T19:47:58+11:00",
+  "timezone_offset_hours": 11.0,
+  "timezone_name": "Australia/Melbourne",
+  "top_artists": [
+    {
+      "name": "Opeth",
+      "plays": 162
+    },
+    {
+      "name": "Gojira",
+      "plays": 102
+    },
+    {
+      "name": "Radiohead",
+      "plays": 83
+    },
+    {
+      "name": "No Doubt",
+      "plays": 31
+    },
+    {
+      "name": "Intronaut",
+      "plays": 27
+    },
+    {
+      "name": "Steven Wilson",
+      "plays": 26
+    },
+    {
+      "name": "Lorde",
+      "plays": 25
+    },
+    {
+      "name": "Muse",
+      "plays": 24
+    },
+    {
+      "name": "Divider",
+      "plays": 20
+    },
+    {
+      "name": "Job for a Cowboy",
+      "plays": 20
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Eternal Rains Will Come",
+      "artist": "Opeth",
+      "plays": 54
+    },
+    {
+      "name": "Spectre",
+      "artist": "Radiohead",
+      "plays": 15
+    },
+    {
+      "name": "Cusp of Eternity",
+      "artist": "Opeth",
+      "plays": 9
+    },
+    {
+      "name": "Crow Eater",
+      "artist": "Divider",
+      "plays": 8
+    },
+    {
+      "name": "Moon Above, Sun Below",
+      "artist": "Opeth",
+      "plays": 7
+    },
+    {
+      "name": "Elysian Woes",
+      "artist": "Opeth",
+      "plays": 7
+    },
+    {
+      "name": "Sun of Nihility",
+      "artist": "Job for a Cowboy",
+      "plays": 7
+    },
+    {
+      "name": "Goblin",
+      "artist": "Opeth",
+      "plays": 6
+    },
+    {
+      "name": "River",
+      "artist": "Opeth",
+      "plays": 5
+    },
+    {
+      "name": "Voice of Treason",
+      "artist": "Opeth",
+      "plays": 5
+    }
+  ],
+  "top_albums": [
+    {
+      "name": "Pale Communion",
+      "plays": 96
+    },
+    {
+      "name": "Sorceress",
+      "plays": 35
+    },
+    {
+      "name": "The Singles 1992 - 2003",
+      "plays": 31
+    },
+    {
+      "name": "L'Enfant Sauvage",
+      "plays": 28
+    },
+    {
+      "name": "Pure Heroine",
+      "plays": 20
+    },
+    {
+      "name": "All Barren",
+      "plays": 20
+    },
+    {
+      "name": "Sun Eater",
+      "plays": 20
+    },
+    {
+      "name": "Amnesiac",
+      "plays": 19
+    },
+    {
+      "name": "In Rainbows",
+      "plays": 18
+    },
+    {
+      "name": "From Mars to Sirius",
+      "plays": 18
+    }
+  ],
+  "top_genres": [
+    {
+      "name": "progressive metal",
+      "plays": 346
+    },
+    {
+      "name": "progressive rock",
+      "plays": 210
+    },
+    {
+      "name": "rock",
+      "plays": 161
+    },
+    {
+      "name": "progressive death metal",
+      "plays": 157
+    },
+    {
+      "name": "death metal",
+      "plays": 150
+    },
+    {
+      "name": "metal",
+      "plays": 137
+    },
+    {
+      "name": "alternative rock",
+      "plays": 134
+    },
+    {
+      "name": "alternative",
+      "plays": 129
+    },
+    {
+      "name": "2014",
+      "plays": 122
+    },
+    {
+      "name": "progressive",
+      "plays": 107
+    }
+  ],
+  "total_genres": 128,
+  "plays_by_month": [
+    {
+      "bucket": 1,
+      "plays": 29
+    },
+    {
+      "bucket": 2,
+      "plays": 72
+    },
+    {
+      "bucket": 3,
+      "plays": 154
+    },
+    {
+      "bucket": 4,
+      "plays": 147
+    },
+    {
+      "bucket": 5,
+      "plays": 8
+    },
+    {
+      "bucket": 6,
+      "plays": 28
+    },
+    {
+      "bucket": 7,
+      "plays": 22
+    },
+    {
+      "bucket": 8,
+      "plays": 22
+    },
+    {
+      "bucket": 9,
+      "plays": 61
+    },
+    {
+      "bucket": 10,
+      "plays": 114
+    },
+    {
+      "bucket": 11,
+      "plays": 22
+    },
+    {
+      "bucket": 12,
+      "plays": 0
+    }
+  ],
+  "plays_by_hour": [
+    {
+      "bucket": 0,
+      "plays": 7
+    },
+    {
+      "bucket": 1,
+      "plays": 0
+    },
+    {
+      "bucket": 2,
+      "plays": 0
+    },
+    {
+      "bucket": 3,
+      "plays": 0
+    },
+    {
+      "bucket": 4,
+      "plays": 0
+    },
+    {
+      "bucket": 5,
+      "plays": 0
+    },
+    {
+      "bucket": 6,
+      "plays": 9
+    },
+    {
+      "bucket": 7,
+      "plays": 46
+    },
+    {
+      "bucket": 8,
+      "plays": 28
+    },
+    {
+      "bucket": 9,
+      "plays": 43
+    },
+    {
+      "bucket": 10,
+      "plays": 41
+    },
+    {
+      "bucket": 11,
+      "plays": 10
+    },
+    {
+      "bucket": 12,
+      "plays": 20
+    },
+    {
+      "bucket": 13,
+      "plays": 26
+    },
+    {
+      "bucket": 14,
+      "plays": 30
+    },
+    {
+      "bucket": 15,
+      "plays": 12
+    },
+    {
+      "bucket": 16,
+      "plays": 19
+    },
+    {
+      "bucket": 17,
+      "plays": 22
+    },
+    {
+      "bucket": 18,
+      "plays": 55
+    },
+    {
+      "bucket": 19,
+      "plays": 60
+    },
+    {
+      "bucket": 20,
+      "plays": 74
+    },
+    {
+      "bucket": 21,
+      "plays": 94
+    },
+    {
+      "bucket": 22,
+      "plays": 56
+    },
+    {
+      "bucket": 23,
+      "plays": 27
+    }
+  ],
+  "plays_by_weekday": [
+    {
+      "bucket": 0,
+      "plays": 149
+    },
+    {
+      "bucket": 1,
+      "plays": 48
+    },
+    {
+      "bucket": 2,
+      "plays": 56
+    },
+    {
+      "bucket": 3,
+      "plays": 45
+    },
+    {
+      "bucket": 4,
+      "plays": 63
+    },
+    {
+      "bucket": 5,
+      "plays": 81
+    },
+    {
+      "bucket": 6,
+      "plays": 237
+    }
+  ],
+  "plays_heatmap": [
+    {
+      "month": 1,
+      "day": 2,
+      "plays": 6
+    },
+    {
+      "month": 1,
+      "day": 3,
+      "plays": 4
+    },
+    {
+      "month": 1,
+      "day": 5,
+      "plays": 4
+    },
+    {
+      "month": 1,
+      "day": 22,
+      "plays": 4
+    },
+    {
+      "month": 1,
+      "day": 23,
+      "plays": 4
+    },
+    {
+      "month": 1,
+      "day": 30,
+      "plays": 1
+    },
+    {
+      "month": 1,
+      "day": 31,
+      "plays": 6
+    },
+    {
+      "month": 2,
+      "day": 6,
+      "plays": 7
+    },
+    {
+      "month": 2,
+      "day": 9,
+      "plays": 1
+    },
+    {
+      "month": 2,
+      "day": 13,
+      "plays": 8
+    },
+    {
+      "month": 2,
+      "day": 14,
+      "plays": 7
+    },
+    {
+      "month": 2,
+      "day": 16,
+      "plays": 1
+    },
+    {
+      "month": 2,
+      "day": 17,
+      "plays": 8
+    },
+    {
+      "month": 2,
+      "day": 18,
+      "plays": 2
+    },
+    {
+      "month": 2,
+      "day": 20,
+      "plays": 1
+    },
+    {
+      "month": 2,
+      "day": 21,
+      "plays": 3
+    },
+    {
+      "month": 2,
+      "day": 22,
+      "plays": 5
+    },
+    {
+      "month": 2,
+      "day": 26,
+      "plays": 3
+    },
+    {
+      "month": 2,
+      "day": 27,
+      "plays": 16
+    },
+    {
+      "month": 2,
+      "day": 28,
+      "plays": 10
+    },
+    {
+      "month": 3,
+      "day": 3,
+      "plays": 12
+    },
+    {
+      "month": 3,
+      "day": 5,
+      "plays": 8
+    },
+    {
+      "month": 3,
+      "day": 6,
+      "plays": 33
+    },
+    {
+      "month": 3,
+      "day": 7,
+      "plays": 5
+    },
+    {
+      "month": 3,
+      "day": 8,
+      "plays": 6
+    },
+    {
+      "month": 3,
+      "day": 13,
+      "plays": 11
+    },
+    {
+      "month": 3,
+      "day": 15,
+      "plays": 10
+    },
+    {
+      "month": 3,
+      "day": 19,
+      "plays": 9
+    },
+    {
+      "month": 3,
+      "day": 20,
+      "plays": 11
+    },
+    {
+      "month": 3,
+      "day": 21,
+      "plays": 3
+    },
+    {
+      "month": 3,
+      "day": 22,
+      "plays": 2
+    },
+    {
+      "month": 3,
+      "day": 25,
+      "plays": 26
+    },
+    {
+      "month": 3,
+      "day": 26,
+      "plays": 12
+    },
+    {
+      "month": 3,
+      "day": 27,
+      "plays": 1
+    },
+    {
+      "month": 3,
+      "day": 28,
+      "plays": 5
+    },
+    {
+      "month": 4,
+      "day": 2,
+      "plays": 4
+    },
+    {
+      "month": 4,
+      "day": 3,
+      "plays": 6
+    },
+    {
+      "month": 4,
+      "day": 5,
+      "plays": 1
+    },
+    {
+      "month": 4,
+      "day": 10,
+      "plays": 25
+    },
+    {
+      "month": 4,
+      "day": 11,
+      "plays": 24
+    },
+    {
+      "month": 4,
+      "day": 16,
+      "plays": 1
+    },
+    {
+      "month": 4,
+      "day": 17,
+      "plays": 42
+    },
+    {
+      "month": 4,
+      "day": 20,
+      "plays": 3
+    },
+    {
+      "month": 4,
+      "day": 25,
+      "plays": 41
+    },
+    {
+      "month": 5,
+      "day": 4,
+      "plays": 8
+    },
+    {
+      "month": 6,
+      "day": 6,
+      "plays": 4
+    },
+    {
+      "month": 6,
+      "day": 18,
+      "plays": 2
+    },
+    {
+      "month": 6,
+      "day": 20,
+      "plays": 20
+    },
+    {
+      "month": 6,
+      "day": 23,
+      "plays": 2
+    },
+    {
+      "month": 7,
+      "day": 23,
+      "plays": 1
+    },
+    {
+      "month": 7,
+      "day": 24,
+      "plays": 2
+    },
+    {
+      "month": 7,
+      "day": 25,
+      "plays": 2
+    },
+    {
+      "month": 7,
+      "day": 27,
+      "plays": 3
+    },
+    {
+      "month": 7,
+      "day": 31,
+      "plays": 14
+    },
+    {
+      "month": 8,
+      "day": 7,
+      "plays": 4
+    },
+    {
+      "month": 8,
+      "day": 17,
+      "plays": 8
+    },
+    {
+      "month": 8,
+      "day": 18,
+      "plays": 6
+    },
+    {
+      "month": 8,
+      "day": 28,
+      "plays": 4
+    },
+    {
+      "month": 9,
+      "day": 17,
+      "plays": 1
+    },
+    {
+      "month": 9,
+      "day": 26,
+      "plays": 12
+    },
+    {
+      "month": 9,
+      "day": 27,
+      "plays": 4
+    },
+    {
+      "month": 9,
+      "day": 29,
+      "plays": 23
+    },
+    {
+      "month": 9,
+      "day": 30,
+      "plays": 21
+    },
+    {
+      "month": 10,
+      "day": 2,
+      "plays": 4
+    },
+    {
+      "month": 10,
+      "day": 3,
+      "plays": 2
+    },
+    {
+      "month": 10,
+      "day": 5,
+      "plays": 11
+    },
+    {
+      "month": 10,
+      "day": 7,
+      "plays": 8
+    },
+    {
+      "month": 10,
+      "day": 9,
+      "plays": 22
+    },
+    {
+      "month": 10,
+      "day": 10,
+      "plays": 8
+    },
+    {
+      "month": 10,
+      "day": 11,
+      "plays": 9
+    },
+    {
+      "month": 10,
+      "day": 12,
+      "plays": 6
+    },
+    {
+      "month": 10,
+      "day": 23,
+      "plays": 19
+    },
+    {
+      "month": 10,
+      "day": 24,
+      "plays": 5
+    },
+    {
+      "month": 10,
+      "day": 26,
+      "plays": 9
+    },
+    {
+      "month": 10,
+      "day": 30,
+      "plays": 4
+    },
+    {
+      "month": 10,
+      "day": 31,
+      "plays": 7
+    },
+    {
+      "month": 11,
+      "day": 4,
+      "plays": 1
+    },
+    {
+      "month": 11,
+      "day": 6,
+      "plays": 2
+    },
+    {
+      "month": 11,
+      "day": 7,
+      "plays": 2
+    },
+    {
+      "month": 11,
+      "day": 8,
+      "plays": 7
+    },
+    {
+      "month": 11,
+      "day": 13,
+      "plays": 3
+    },
+    {
+      "month": 11,
+      "day": 14,
+      "plays": 4
+    },
+    {
+      "month": 11,
+      "day": 15,
+      "plays": 3
+    }
+  ],
+  "most_played_day": {
+    "bucket": "2016-04-17",
+    "plays": 42
+  },
+  "longest_streak": {
+    "length": 4,
+    "start": "2016-03-05",
+    "end": "2016-03-08"
+  },
+  "repeat_tracks": [
+    {
+      "name": "eternal rains will come",
+      "artist": "opeth",
+      "max_daily_plays": 6
+    },
+    {
+      "name": "face the storm together",
+      "artist": "kingdom of sleep",
+      "max_daily_plays": 4
+    },
+    {
+      "name": "spectre",
+      "artist": "radiohead",
+      "max_daily_plays": 4
+    }
+  ],
+  "genre_by_month": [
+    {
+      "month": 1,
+      "unique_genres": 24,
+      "top_genres": [
+        {
+          "name": "progressive metal",
+          "plays": 26
+        },
+        {
+          "name": "progressive rock",
+          "plays": 20
+        },
+        {
+          "name": "progressive death metal",
+          "plays": 12
+        },
+        {
+          "name": "instrumental",
+          "plays": 12
+        },
+        {
+          "name": "metal",
+          "plays": 12
+        }
+      ]
+    },
+    {
+      "month": 2,
+      "unique_genres": 18,
+      "top_genres": [
+        {
+          "name": "progressive rock",
+          "plays": 58
+        },
+        {
+          "name": "progressive metal",
+          "plays": 58
+        },
+        {
+          "name": "2014",
+          "plays": 57
+        },
+        {
+          "name": "chad kroeger",
+          "plays": 57
+        },
+        {
+          "name": "progressive",
+          "plays": 57
+        }
+      ]
+    },
+    {
+      "month": 3,
+      "unique_genres": 49,
+      "top_genres": [
+        {
+          "name": "alternative",
+          "plays": 58
+        },
+        {
+          "name": "rock",
+          "plays": 58
+        },
+        {
+          "name": "alternative rock",
+          "plays": 56
+        },
+        {
+          "name": "indie",
+          "plays": 52
+        },
+        {
+          "name": "progressive rock",
+          "plays": 49
+        }
+      ]
+    },
+    {
+      "month": 4,
+      "unique_genres": 25,
+      "top_genres": [
+        {
+          "name": "progressive death metal",
+          "plays": 83
+        },
+        {
+          "name": "death metal",
+          "plays": 83
+        },
+        {
+          "name": "progressive metal",
+          "plays": 80
+        },
+        {
+          "name": "metal",
+          "plays": 68
+        },
+        {
+          "name": "alternative",
+          "plays": 54
+        }
+      ]
+    },
+    {
+      "month": 5,
+      "unique_genres": 5,
+      "top_genres": [
+        {
+          "name": "rock",
+          "plays": 8
+        },
+        {
+          "name": "long",
+          "plays": 8
+        },
+        {
+          "name": "new",
+          "plays": 8
+        },
+        {
+          "name": "full",
+          "plays": 8
+        },
+        {
+          "name": "serious",
+          "plays": 8
+        }
+      ]
+    },
+    {
+      "month": 6,
+      "unique_genres": 17,
+      "top_genres": [
+        {
+          "name": "2016",
+          "plays": 14
+        },
+        {
+          "name": "progressive metal",
+          "plays": 14
+        },
+        {
+          "name": "groove metal",
+          "plays": 14
+        },
+        {
+          "name": "progressive death metal",
+          "plays": 14
+        },
+        {
+          "name": "death metal",
+          "plays": 14
+        }
+      ]
+    },
+    {
+      "month": 7,
+      "unique_genres": 12,
+      "top_genres": [
+        {
+          "name": "death metal",
+          "plays": 19
+        },
+        {
+          "name": "progressive death metal",
+          "plays": 19
+        },
+        {
+          "name": "technical death metal",
+          "plays": 17
+        },
+        {
+          "name": "2014",
+          "plays": 17
+        },
+        {
+          "name": "sharon stone",
+          "plays": 17
+        }
+      ]
+    },
+    {
+      "month": 8,
+      "unique_genres": 14,
+      "top_genres": [
+        {
+          "name": "rock",
+          "plays": 19
+        },
+        {
+          "name": "metal",
+          "plays": 18
+        },
+        {
+          "name": "progressive metal",
+          "plays": 11
+        },
+        {
+          "name": "progressive rock",
+          "plays": 11
+        },
+        {
+          "name": "alternative rock",
+          "plays": 11
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "unique_genres": 25,
+      "top_genres": [
+        {
+          "name": "progressive metal",
+          "plays": 45
+        },
+        {
+          "name": "metal",
+          "plays": 23
+        },
+        {
+          "name": "progressive rock",
+          "plays": 16
+        },
+        {
+          "name": "2016",
+          "plays": 16
+        },
+        {
+          "name": "opeth",
+          "plays": 16
+        }
+      ]
+    },
+    {
+      "month": 10,
+      "unique_genres": 46,
+      "top_genres": [
+        {
+          "name": "progressive metal",
+          "plays": 63
+        },
+        {
+          "name": "progressive rock",
+          "plays": 55
+        },
+        {
+          "name": "post-metal",
+          "plays": 38
+        },
+        {
+          "name": "jazz",
+          "plays": 24
+        },
+        {
+          "name": "sludge",
+          "plays": 22
+        }
+      ]
+    },
+    {
+      "month": 11,
+      "unique_genres": 34,
+      "top_genres": [
+        {
+          "name": "post-revolutionary pop song",
+          "plays": 10
+        },
+        {
+          "name": "avantgarde pop",
+          "plays": 10
+        },
+        {
+          "name": "alternative",
+          "plays": 10
+        },
+        {
+          "name": "alternative rock",
+          "plays": 10
+        },
+        {
+          "name": "art pop",
+          "plays": 10
+        }
+      ]
+    },
+    {
+      "month": 12,
+      "unique_genres": 0,
+      "top_genres": []
+    }
+  ]
+}

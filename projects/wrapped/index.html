@@ -1,16 +1,251 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Wrapped | theispitar</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-    <main class="main-container">
-      <h1 class="section-title">Wrapped</h1>
-      <p class="tagline">Project page placeholder.</p>
-      <p><a class="project-link" href="/">Back to home</a></p>
-    </main>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Last.fm Wrapped Dashboard [CYBERPUNK TEST]</title>
+  <link rel="preload" href="fonts/fonts.css" as="style" />
+  <link rel="stylesheet" href="fonts/fonts.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+
+<body>
+  <div class="page">
+    <header class="hero">
+      <div>
+        <div class="pill">Last.fm Wrapped</div>
+        <h1>Year in Listening</h1>
+        <p class="lede">// Local view of your scrobbles with zero external calls //</p>
+        <div class="meta">
+          <span id="generatedAt">Generated locally</span>
+          <span style="opacity:0.6;">&bull;</span>
+          <span>Timezone offset: <span id="tzMetaValue">-</span></span>
+        </div>
+      </div>
+      <div class="controls">
+        <div>
+          <label for="year">Year</label>
+          <select id="year"></select>
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <button id="reload">Load year</button>
+        </div>
+        <div style="grid-column: 1 / -1;">
+          <div class="status" id="status">Select a year.</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="panel overview">
+      <h2>Overview</h2>
+      <div class="overview-grid">
+        <div class="stats-grid">
+          <div class="stat">
+            <label>Tracks Played</label>
+            <div class="value" id="tracks">-</div>
+            <span class="delta" id="tracksDelta"></span>
+          </div>
+          <div class="stat">
+            <label>Total Listening Time</label>
+            <div class="value" id="totalTime">-</div>
+            <span class="delta" id="timeDelta"></span>
+            <small>hh:mm:ss </small>
+          </div>
+          <div class="stat">
+            <label>Avg Plays / Day</label>
+            <div class="value" id="avgDaily">-</div>
+            <small><span class="delta" id="avgDailyDelta"></span></small>
+          </div>
+          <div class="stat">
+            <label>Longest Streak</label>
+            <div class="value" id="overviewStreakDays">-</div>
+            <small class="stat-subvalue" id="overviewStreakRange"></small>
+          </div>
+        </div>
+        <div class="overview-graph">
+          <div class="chart-frame">
+            <canvas id="byMonthCompareChart" aria-label="Plays by month comparison" role="img"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel spotlight">
+      <h2>Spotlight</h2>
+      <div class="spotlight-counts">
+        <div class="spotlight-stat">
+          <div class="label">Artists</div>
+          <div class="value" id="spotlightArtistsCount">-</div>
+          <div class="delta" id="spotlightArtistsDelta"></div>
+        </div>
+        <div class="spotlight-stat">
+          <div class="label">Albums</div>
+          <div class="value" id="spotlightAlbumsCount">-</div>
+          <div class="delta" id="spotlightAlbumsDelta"></div>
+        </div>
+        <div class="spotlight-stat">
+          <div class="label">Tracks</div>
+          <div class="value" id="spotlightTracksCount">-</div>
+          <div class="delta" id="spotlightTracksDelta"></div>
+        </div>
+      </div>
+      <div class="spotlight-grid">
+        <div class="spotlight-card">
+          <div class="label">Top Artist</div>
+          <img class="spotlight-thumb" id="artArtistImg" alt="Top artist artwork" />
+          <div class="spotlight-meta">
+            <div class="name" id="artArtistName">-</div>
+            <div class="plays" id="artArtistPlays"></div>
+          </div>
+        </div>
+        <div class="spotlight-card">
+          <div class="label">Top Album</div>
+          <img class="spotlight-thumb" id="artAlbumImg" alt="Top album artwork" />
+          <div class="spotlight-meta">
+            <div class="name" id="artAlbumName">-</div>
+            <div class="plays" id="artAlbumPlays"></div>
+          </div>
+        </div>
+        <div class="spotlight-card">
+          <div class="label">Top Track</div>
+          <img class="spotlight-thumb" id="artTrackImg" alt="Top track artwork" />
+          <div class="spotlight-meta">
+            <div class="name" id="artTrackName">-</div>
+            <div class="plays" id="artTrackPlays"></div>
+          </div>
+        </div>
+      </div>
+      <div class="spotlight-lists">
+        <div class="spotlight-list">
+          <div class="list" id="topArtistsRest"></div>
+        </div>
+        <div class="spotlight-list">
+          <div class="list" id="topAlbumsRest"></div>
+        </div>
+        <div class="spotlight-list">
+          <div class="list" id="topTracksRest"></div>
+        </div>
+      </div>
+      <div class="spotlight-discovery">
+        <div class="discovery-card">
+          <div class="discovery-title">Discovery Rate</div>
+          <div class="discovery-grid">
+            <div class="discovery-stat">
+              <div class="discovery-label">New Artists</div>
+              <div class="discovery-value" id="discoveryArtistsPct">-</div>
+            </div>
+            <div class="discovery-stat">
+              <div class="discovery-label">New Albums</div>
+              <div class="discovery-value" id="discoveryAlbumsPct">-</div>
+            </div>
+            <div class="discovery-stat">
+              <div class="discovery-label">New Tracks</div>
+              <div class="discovery-value" id="discoveryTracksPct">-</div>
+            </div>
+          </div>
+          <div class="discovery-top">
+            <div class="discovery-top-item">
+              <div class="discovery-label">Top New Artist</div>
+              <div class="discovery-top-value" id="discoveryTopArtist">-</div>
+            </div>
+            <div class="discovery-top-item">
+              <div class="discovery-label">Top New Album</div>
+              <div class="discovery-top-value" id="discoveryTopAlbum">-</div>
+            </div>
+            <div class="discovery-top-item">
+              <div class="discovery-label">Top New Track</div>
+              <div class="discovery-top-value" id="discoveryTopTrack">-</div>
+            </div>
+          </div>
+          <div class="discovery-note" id="discoveryNote"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel time">
+      <h2>Time Patterns</h2>
+      <div class="time-grid">
+        <div class="panel panel-graph">
+          <h2 class="time-title">Plays by Weekday</h2>
+          <div class="chart-frame weekday-compare-chart">
+            <canvas id="byWeekdayCompareChart" aria-label="Plays by weekday comparison" role="img"></canvas>
+          </div>
+        </div>
+        <div class="time-cell">
+          <div class="time-stats time-stats-day">
+            <div class="stat time-stat day-a">
+              <label>Most Played Weekday</label>
+              <div class="value" id="timeBestWeekday">-</div>
+              <small class="stat-subvalue" id="timeBestWeekdayPlays"></small>
+            </div>
+            <div class="stat time-stat day-b">
+              <label>Most Consistent Day</label>
+              <div class="value" id="timeConsistentDay">-</div>
+              <small class="stat-subvalue" id="timeConsistentDayPlays"></small>
+            </div>
+            <div class="stat time-stat day-c">
+              <label>Weekend vs Weekday</label>
+              <div class="value" id="weekendShare">-</div>
+              <small class="stat-subvalue" id="weekdayShare"></small>
+            </div>
+          </div>
+        </div>
+        <div class="time-cell">
+          <div class="time-stats time-stats-hour">
+            <div class="stat time-stat hour-a">
+              <label>Most Played Hour</label>
+              <div class="value" id="mostPlayedHour">-</div>
+              <small class="stat-subvalue" id="mostPlayedHourPlays"></small>
+            </div>
+            <div class="stat time-stat hour-b">
+              <label>Most Consistent Hour</label>
+              <div class="value" id="consistentHour">-</div>
+              <small class="stat-subvalue" id="consistentHourPlays"></small>
+            </div>
+            <div class="stat time-stat hour-c">
+              <label>Peak Listening Window</label>
+              <div class="value" id="peakWindow">-</div>
+              <small class="stat-subvalue" id="peakWindowPlays"></small>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-graph">
+          <h2 class="time-title">Plays by Hour</h2>
+          <div class="chart-frame hour-chart">
+            <canvas id="byHourDotChart" aria-label="Plays by hour dot ring" role="img"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel genre">
+      <h2>Genres</h2>
+      <div class="genre-title">Top 5</div>
+      <div class="genre-spotlight" id="genreSpotlight"></div>
+      <div class="genre-grid">
+        <div class="genre-timeline">
+          <div class="genre-title">Genre Timeline</div>
+          <div class="chart-frame genre-chart">
+            <canvas id="genreTimelineChart" aria-label="Genre share by month" role="img"></canvas>
+          </div>
+        </div>
+        <div class="genre-share">
+          <div class="genre-title">Genre Share</div>
+          <div class="genre-share-bars" id="genreShareBars"></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="hero-footer"></div>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2.0.1/dist/chartjs-chart-matrix.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
 </html>

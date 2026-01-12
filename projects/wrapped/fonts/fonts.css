@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "OldTimeyCode";
+    src: url("./oldtimeycode/OldTimeyCode.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal; 
+    font-display: swap;
+}
+
+@font-face {
+  font-family: "Perfect DOS VGA 437";
+  src: local("Perfect DOS VGA 437"),
+    local("Perfect DOS VGA 437 Win"),
+    url("./perfect dos/Perfect DOS VGA 437.woff") format("woff"),
+    url("./perfect dos/Perfect DOS VGA 437 Win.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hack";
+  src: local("Hack Regular"),
+    local("Hack"),
+    url("./hack/hack-regular.woff2") format("woff2"),
+    url("./hack/hack-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hack";
+  src: local("Hack Italic"),
+    url("./hack/hack-italic.woff2") format("woff2"),
+    url("./hack/hack-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hack";
+  src: local("Hack Bold"),
+    url("./hack/hack-bold.woff2") format("woff2"),
+    url("./hack/hack-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hack";
+  src: local("Hack Bold Italic"),
+    url("./hack/hack-bolditalic.woff2") format("woff2"),
+    url("./hack/hack-bolditalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Martian Mono";
+  src: local("Martian Mono"),
+    url("./martian-mono/MartianMonoVF.woff2") format("woff2");
+  font-weight: 100 800;
+  font-style: normal;
+  font-display: swap;
+}
