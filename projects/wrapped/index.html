@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Last.fm Wrapped Dashboard [CYBERPUNK TEST]</title>
+  <title>Wraped Dashboard</title>
   <link rel="preload" href="fonts/fonts.css" as="style" />
   <link rel="stylesheet" href="fonts/fonts.css" />
   <link rel="stylesheet" href="styles.css" />
@@ -15,9 +15,10 @@
   <div class="page">
     <header class="hero">
       <div>
+        <button id="backBtn" class="home-link" type="button" data-home-href="/index.html" aria-label="Home"></button>
         <div class="pill">Last.fm Wrapped</div>
         <h1>Year in Listening</h1>
-        <p class="lede">// Local view of your scrobbles with zero external calls //</p>
+        <p class="lede">// Self-built listening dashboard from last.fm API calls //</p>
         <div class="meta">
           <span id="generatedAt">Generated locally</span>
           <span style="opacity:0.6;">&bull;</span>
@@ -32,9 +33,6 @@
         <div>
           <label>&nbsp;</label>
           <button id="reload">Load year</button>
-        </div>
-        <div class="controls-footer">
-          <button id="backBtn" class="back-button" type="button" data-home-href="/index.html">Home</button>
         </div>
         <div style="grid-column: 1 / -1;">
           <div class="status" id="status">Select a year.</div>

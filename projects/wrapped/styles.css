@@ -177,6 +177,37 @@ h1 {
   animation: blink 1.5s infinite;
 }
 
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  padding: 6px 10px;
+  min-width: 36px;
+  border: 1px solid var(--border);
+  background: none;
+  color: var(--accent);
+  cursor: pointer;
+  line-height: 1;
+}
+
+.home-link::before {
+  content: "~/";
+  font-family: var(--mono);
+  display: block;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.home-link:hover {
+  background: var(--card-strong);
+}
+
+.home-link:focus-visible {
+  outline: 2px solid #f8f8ff;
+  outline-offset: 2px;
+}
+
 @keyframes blink {
 
   0%,
@@ -228,17 +259,6 @@ h1 {
   position: relative;
 }
 
-.controls-footer {
-  grid-column: 1 / -1;
-  display: flex;
-  justify-content: center;
-}
-
-.controls-footer .back-button {
-  width: auto;
-  min-width: 160px;
-}
-
 .controls::before {
   content: '█ SYSTEM.CONTROLS █';
   position: absolute;
@@ -263,7 +283,7 @@ h1 {
 }
 
 select,
-button {
+button:not(.home-link) {
   width: 100%;
   background: none;
   color: var(--text);
@@ -286,7 +306,7 @@ select:focus {
   background: var(--card);
 }
 
-button {
+button:not(.home-link) {
   cursor: pointer;
   transition: all 0.15s ease;
   background: var(--bg-page);
@@ -302,7 +322,7 @@ button {
   overflow: hidden;
 }
 
-button::before {
+button:not(.home-link)::before {
   content: '>';
   position: absolute;
   left: 10px;
@@ -310,17 +330,13 @@ button::before {
   /* animation: blink 1s infinite; */
 }
 
-.back-button::before {
-  content: '<';
-}
-
-button:hover {
+button:not(.home-link):hover {
   background: var(--card-strong);
   color: var(--text);
 }
 
 select:focus-visible,
-button:focus-visible {
+button:not(.home-link):focus-visible {
   outline: 2px solid #f8f8ff;
   outline-offset: 2px;
 }
@@ -1233,3 +1249,4 @@ main {
     display: none;
   }
 }
+
