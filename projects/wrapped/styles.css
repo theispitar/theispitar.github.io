@@ -228,6 +228,17 @@ h1 {
   position: relative;
 }
 
+.controls-footer {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+}
+
+.controls-footer .back-button {
+  width: auto;
+  min-width: 160px;
+}
+
 .controls::before {
   content: '█ SYSTEM.CONTROLS █';
   position: absolute;
@@ -297,6 +308,10 @@ button::before {
   left: 10px;
   color: var(--accent);
   /* animation: blink 1s infinite; */
+}
+
+.back-button::before {
+  content: '<';
 }
 
 button:hover {

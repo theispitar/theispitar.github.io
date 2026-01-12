@@ -1,5 +1,6 @@
 const yearSelect = document.getElementById("year");
 const reloadBtn = document.getElementById("reload");
+const backBtn = document.getElementById("backBtn");
 const statusEl = document.getElementById("status");
 const tracksEl = document.getElementById("tracks");
 const tzMetaValueEl = document.getElementById("tzMetaValue");
@@ -1116,6 +1117,12 @@ reloadBtn.addEventListener("click", () => {
   wrappedManifestPromise = null;
   loadYear(parseInt(yearSelect.value, 10));
 });
+if (backBtn) {
+  backBtn.addEventListener("click", () => {
+    const homeHref = backBtn.dataset.homeHref || "/index.html";
+    window.location.href = homeHref;
+  });
+}
 async function loadLatestAvailable(years) {
   for (const year of years) {
     const ok = await loadYear(year, { silent: true });
