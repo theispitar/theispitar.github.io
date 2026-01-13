@@ -805,18 +805,14 @@ main {
 .list {
   display: grid;
   gap: 0px;
-  border: 1px dashed var(--border);
-  border-top: none;
-  height: clamp(280px, 50vh, 500px);
-  overflow-y: auto;
+  height: auto;
+  overflow: visible;
 }
 
 .list-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: var(--card);
-  border: 1px solid transparent;
   padding: 12px;
   font-size: clamp(12px, 1.1vw, 13px);
   font-family: var(--mono);
@@ -825,7 +821,7 @@ main {
 
 .list-item:hover {
   border-color: #f8f8ff;
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--bg-page);
 }
 
 .list-item .thumb {
@@ -841,7 +837,6 @@ main {
 
 .list-item .plays {
   color: #f8f8ff;
-  /* font-weight: 700; */
   font-feature-settings: "tnum";
   font-family: var(--terminal);
   font-size: clamp(16px, 2.2vw, 22px);
@@ -936,24 +931,19 @@ main {
   font-family: var(--mono);
 }
 
-.spotlight-counts {
+.spotlight-columns {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
-  margin-bottom: 0px;
+  align-items: start;
 }
 
-.spotlight-grid {
+.spotlight-column {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 10px;
-}
-
-.spotlight-lists {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 10px;
-  margin-top: 0px;
+  gap: 0px;
+  min-width: 0;
+  border: 1px dashed var(--border);
+  background: var(--card);
 }
 
 .spotlight-list {
@@ -962,8 +952,7 @@ main {
 }
 
 .spotlight-list .list {
-  border-top: none;
-  /* border-top: 1px dashed var(--border); */
+  border: none;
 }
 
 .spotlight-discovery {
@@ -1048,9 +1037,6 @@ main {
 }
 
 .spotlight-stat {
-  background: var(--card);
-  border: 1px dashed var(--border);
-  border-bottom: none;
   padding: 14px;
   display: grid;
   gap: 10px 12px;
@@ -1095,11 +1081,6 @@ main {
 .spotlight-card {
   position: relative;
   overflow: hidden;
-  border-radius: 0;
-  background: var(--card);
-  border: 1px dashed var(--border);
-  border-top: none;
-  border-bottom: none;
   min-height: 160px;
   min-width: 0;
   display: grid;
@@ -1125,7 +1106,7 @@ main {
   height: auto;
   border-radius: 0;
   background: none;
-  /* border: 1px dotted var(--border); */
+  /* border: 2px dotted black; */
   object-fit: cover;
 }
 
@@ -1224,10 +1205,63 @@ main {
   }
 }
 
+@media (max-width: 980px) {
+  :root {
+    --panel-margin: 36px;
+    --panel-graph-margin: 6px;
+  }
+
+  .overview-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .overview-graph {
+    min-height: 240px;
+  }
+
+  .time-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .time-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .time-stats-day {
+    grid-template-areas:
+      "day-a"
+      "day-b"
+      "day-c";
+  }
+
+  .time-stats-hour {
+    grid-template-areas:
+      "hour-a"
+      "hour-b"
+      "hour-c";
+  }
+
+  .spotlight-columns {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+
+  .genre-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .genre-share-row {
+    grid-template-columns: minmax(80px, 1fr) minmax(0, 2fr);
+  }
+
+  .genre-share-value {
+    justify-self: start;
+  }
+}
+
 
 @media (max-width: 640px) {
   body {
-    padding: 18px;
+    padding: 18px 16px 28px;
   }
 
   header.hero {
@@ -1235,18 +1269,67 @@ main {
     align-items: flex-start;
   }
 
+  h1 {
+    letter-spacing: 4px;
+    word-break: break-word;
+  }
+
+  .meta {
+    gap: 6px;
+  }
+
   header.hero::before,
   header.hero::after {
     display: none;
   }
 
+  .hero-footer::before,
+  .hero-footer::after {
+    display: none;
+  }
+
   .controls {
     width: 100%;
+    grid-template-columns: 1fr;
   }
 
   .panel::before,
   .panel::after {
     display: none;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stat {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "label"
+      "value"
+      "delta"
+      "subvalue";
+  }
+
+  .delta {
+    justify-self: start;
+  }
+
+  .time-cell {
+    padding: 18px;
+  }
+
+  .spotlight-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .hour-chart canvas {
+    height: 220px !important;
+  }
+
+  .weekday-compare-chart canvas,
+  .genre-chart canvas {
+    height: 220px !important;
   }
 }
 

@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Wraped Dashboard</title>
-  <link rel="preload" href="fonts/fonts.css" as="style" />
-  <link rel="stylesheet" href="fonts/fonts.css" />
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="preload" href="fonts/fonts.css" as="style">
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
 </head>
 
@@ -32,7 +32,7 @@
         </div>
         <div>
           <label>&nbsp;</label>
-          <button id="reload">Load year</button>
+          <button id="reload" type="button">Load year</button>
         </div>
         <div style="grid-column: 1 / -1;">
           <div class="status" id="status">Select a year.</div>
@@ -76,58 +76,60 @@
 
     <section class="panel spotlight">
       <h2>Spotlight</h2>
-      <div class="spotlight-counts">
-        <div class="spotlight-stat">
-          <div class="label">Artists</div>
-          <div class="value" id="spotlightArtistsCount">-</div>
-          <div class="delta" id="spotlightArtistsDelta"></div>
-        </div>
-        <div class="spotlight-stat">
-          <div class="label">Albums</div>
-          <div class="value" id="spotlightAlbumsCount">-</div>
-          <div class="delta" id="spotlightAlbumsDelta"></div>
-        </div>
-        <div class="spotlight-stat">
-          <div class="label">Tracks</div>
-          <div class="value" id="spotlightTracksCount">-</div>
-          <div class="delta" id="spotlightTracksDelta"></div>
-        </div>
-      </div>
-      <div class="spotlight-grid">
-        <div class="spotlight-card">
-          <div class="label">Top Artist</div>
-          <img class="spotlight-thumb" id="artArtistImg" alt="Top artist artwork" />
-          <div class="spotlight-meta">
-            <div class="name" id="artArtistName">-</div>
-            <div class="plays" id="artArtistPlays"></div>
+      <div class="spotlight-columns">
+        <div class="spotlight-column">
+          <div class="spotlight-stat">
+            <div class="label">Artists</div>
+            <div class="value" id="spotlightArtistsCount">-</div>
+            <div class="delta" id="spotlightArtistsDelta"></div>
+          </div>
+          <div class="spotlight-card">
+            <div class="label">Top Artist</div>
+            <img class="spotlight-thumb" id="artArtistImg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Top artist artwork">
+            <div class="spotlight-meta">
+              <div class="name" id="artArtistName">-</div>
+              <div class="plays" id="artArtistPlays"></div>
+            </div>
+          </div>
+          <div class="spotlight-list">
+            <div class="list" id="topArtistsRest"></div>
           </div>
         </div>
-        <div class="spotlight-card">
-          <div class="label">Top Album</div>
-          <img class="spotlight-thumb" id="artAlbumImg" alt="Top album artwork" />
-          <div class="spotlight-meta">
-            <div class="name" id="artAlbumName">-</div>
-            <div class="plays" id="artAlbumPlays"></div>
+        <div class="spotlight-column">
+          <div class="spotlight-stat">
+            <div class="label">Albums</div>
+            <div class="value" id="spotlightAlbumsCount">-</div>
+            <div class="delta" id="spotlightAlbumsDelta"></div>
+          </div>
+          <div class="spotlight-card">
+            <div class="label">Top Album</div>
+            <img class="spotlight-thumb" id="artAlbumImg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Top album artwork">
+            <div class="spotlight-meta">
+              <div class="name" id="artAlbumName">-</div>
+              <div class="plays" id="artAlbumPlays"></div>
+            </div>
+          </div>
+          <div class="spotlight-list">
+            <div class="list" id="topAlbumsRest"></div>
           </div>
         </div>
-        <div class="spotlight-card">
-          <div class="label">Top Track</div>
-          <img class="spotlight-thumb" id="artTrackImg" alt="Top track artwork" />
-          <div class="spotlight-meta">
-            <div class="name" id="artTrackName">-</div>
-            <div class="plays" id="artTrackPlays"></div>
+        <div class="spotlight-column">
+          <div class="spotlight-stat">
+            <div class="label">Tracks</div>
+            <div class="value" id="spotlightTracksCount">-</div>
+            <div class="delta" id="spotlightTracksDelta"></div>
           </div>
-        </div>
-      </div>
-      <div class="spotlight-lists">
-        <div class="spotlight-list">
-          <div class="list" id="topArtistsRest"></div>
-        </div>
-        <div class="spotlight-list">
-          <div class="list" id="topAlbumsRest"></div>
-        </div>
-        <div class="spotlight-list">
-          <div class="list" id="topTracksRest"></div>
+          <div class="spotlight-card">
+            <div class="label">Top Track</div>
+            <img class="spotlight-thumb" id="artTrackImg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Top track artwork">
+            <div class="spotlight-meta">
+              <div class="name" id="artTrackName">-</div>
+              <div class="plays" id="artTrackPlays"></div>
+            </div>
+          </div>
+          <div class="spotlight-list">
+            <div class="list" id="topTracksRest"></div>
+          </div>
         </div>
       </div>
       <div class="spotlight-discovery">
