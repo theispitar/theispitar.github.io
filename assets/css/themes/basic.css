@@ -1,0 +1,27 @@
+:root[data-theme="basic"] {
+    color-scheme: light;
+    --font-body: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    --font-display: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    --bg: #ffffff;
+    --bg-accent: #ffffff;
+    --text: #000000;
+    --muted: #444444;
+    --accent: #000000;
+    --border: transparent;
+    --card-bg: transparent;
+    --card-shadow: none;
+    --ascii-shadow: none;
+    --bg-pattern: none;
+    --bg-pattern-size: auto;
+}
+
+:root[data-theme="basic"] .ascii,
+:root[data-theme="basic"] .project-card {
+    border: none;
+    box-shadow: none;
+}
+
+:root[data-theme="basic"] .project-tag {
+    border: none;
+    padding: 0;
+}

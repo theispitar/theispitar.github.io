@@ -1,0 +1,19 @@
+:root,
+:root[data-theme="terminal"] {
+    color-scheme: dark;
+    --font-body: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    --font-display: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    --bg: #0b0f0e;
+    --bg-accent: #121a17;
+    --text: #e6f0ea;
+    --muted: #9db3a8;
+    --accent: #37f5a2;
+    --border: #1f2a26;
+    --card-bg: rgba(15, 20, 18, 0.85);
+    --card-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+    --ascii-shadow: 0 0 0 1px rgba(55, 245, 162, 0.2), 0 12px 30px rgba(0, 0, 0, 0.45);
+    --bg-pattern:
+        linear-gradient(transparent 23px, rgba(55, 245, 162, 0.04) 24px),
+        linear-gradient(90deg, transparent 23px, rgba(55, 245, 162, 0.04) 24px);
+    --bg-pattern-size: 24px 24px;
+}

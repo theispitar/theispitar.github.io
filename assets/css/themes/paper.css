@@ -1,0 +1,18 @@
+:root[data-theme="paper"] {
+    color-scheme: light;
+    --font-body: "Fraunces", "Iowan Old Style", "Palatino", "Times New Roman", serif;
+    --font-display: "Fraunces", "Iowan Old Style", "Palatino", "Times New Roman", serif;
+    --bg: #f6f0e8;
+    --bg-accent: #fff9f2;
+    --text: #2b231b;
+    --muted: #6c6158;
+    --accent: #b3542d;
+    --border: #d8c9b9;
+    --card-bg: rgba(255, 249, 242, 0.9);
+    --card-shadow: 0 14px 30px rgba(82, 48, 28, 0.18);
+    --ascii-shadow: 0 0 0 1px rgba(179, 84, 45, 0.22), 0 16px 32px rgba(82, 48, 28, 0.2);
+    --bg-pattern:
+        radial-gradient(circle at 1px 1px, rgba(179, 84, 45, 0.18) 1px, transparent 0),
+        linear-gradient(120deg, rgba(179, 84, 45, 0.08), transparent 55%);
+    --bg-pattern-size: 18px 18px, auto;
+}
