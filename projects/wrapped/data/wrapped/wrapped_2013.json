@@ -1,6 +1,6 @@
 {
   "year": 2013,
-  "generated_at": "2026-01-07T10:09:22.253487+00:00",
+  "generated_at": "2026-01-13T01:25:41.813562+00:00",
   "total_plays": 24160,
   "total_play_time_ms": 6143198603,
   "unique_artists": 227,
@@ -59029,10 +59029,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2013-01-01T11:33:43+11:00",
-  "last_play": "2013-12-31T22:40:55+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2013-01-01T10:33:43+00:00",
+  "last_play": "2013-12-31T21:40:55+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Twelve Foot Ninja",
@@ -59265,129 +59265,129 @@
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 98
+      "plays": 96
     },
     {
       "bucket": 1,
-      "plays": 84
+      "plays": 91
     },
     {
       "bucket": 2,
-      "plays": 81
+      "plays": 47
     },
     {
       "bucket": 3,
-      "plays": 50
+      "plays": 31
     },
     {
       "bucket": 4,
-      "plays": 21
-    },
-    {
-      "bucket": 5,
       "plays": 12
     },
     {
+      "bucket": 5,
+      "plays": 30
+    },
+    {
       "bucket": 6,
-      "plays": 34
+      "plays": 48
     },
     {
       "bucket": 7,
-      "plays": 216
+      "plays": 391
     },
     {
       "bucket": 8,
-      "plays": 930
+      "plays": 1244
     },
     {
       "bucket": 9,
-      "plays": 2045
+      "plays": 2422
     },
     {
       "bucket": 10,
-      "plays": 2415
+      "plays": 2568
     },
     {
       "bucket": 11,
-      "plays": 2559
+      "plays": 2618
     },
     {
       "bucket": 12,
-      "plays": 2460
+      "plays": 2411
     },
     {
       "bucket": 13,
-      "plays": 2340
+      "plays": 2162
     },
     {
       "bucket": 14,
-      "plays": 2196
+      "plays": 2300
     },
     {
       "bucket": 15,
-      "plays": 2320
+      "plays": 2349
     },
     {
       "bucket": 16,
-      "plays": 2221
+      "plays": 2176
     },
     {
       "bucket": 17,
-      "plays": 1621
+      "plays": 1187
     },
     {
       "bucket": 18,
-      "plays": 843
+      "plays": 484
     },
     {
       "bucket": 19,
-      "plays": 357
+      "plays": 377
     },
     {
       "bucket": 20,
-      "plays": 451
+      "plays": 389
     },
     {
       "bucket": 21,
-      "plays": 315
+      "plays": 321
     },
     {
       "bucket": 22,
-      "plays": 277
+      "plays": 268
     },
     {
       "bucket": 23,
-      "plays": 214
+      "plays": 138
     }
   ],
   "plays_by_weekday": [
     {
       "bucket": 0,
-      "plays": 4166
+      "plays": 4169
     },
     {
       "bucket": 1,
-      "plays": 4763
+      "plays": 4749
     },
     {
       "bucket": 2,
-      "plays": 4618
+      "plays": 4616
     },
     {
       "bucket": 3,
-      "plays": 4511
+      "plays": 4512
     },
     {
       "bucket": 4,
-      "plays": 4050
+      "plays": 4063
     },
     {
       "bucket": 5,
-      "plays": 1004
+      "plays": 1013
     },
     {
       "bucket": 6,
-      "plays": 1048
+      "plays": 1038
     }
   ],
   "plays_heatmap": [
@@ -59449,12 +59449,12 @@
     {
       "month": 1,
       "day": 12,
-      "plays": 23
+      "plays": 27
     },
     {
       "month": 1,
       "day": 13,
-      "plays": 5
+      "plays": 1
     },
     {
       "month": 1,
@@ -59619,12 +59619,12 @@
     {
       "month": 2,
       "day": 22,
-      "plays": 173
+      "plays": 176
     },
     {
       "month": 2,
       "day": 23,
-      "plays": 17
+      "plays": 14
     },
     {
       "month": 2,
@@ -59684,22 +59684,22 @@
     {
       "month": 3,
       "day": 7,
-      "plays": 126
+      "plays": 127
     },
     {
       "month": 3,
       "day": 8,
-      "plays": 83
+      "plays": 82
     },
     {
       "month": 3,
       "day": 9,
-      "plays": 46
+      "plays": 49
     },
     {
       "month": 3,
       "day": 10,
-      "plays": 8
+      "plays": 5
     },
     {
       "month": 3,
@@ -59759,12 +59759,12 @@
     {
       "month": 3,
       "day": 22,
-      "plays": 127
+      "plays": 130
     },
     {
       "month": 3,
       "day": 23,
-      "plays": 48
+      "plays": 45
     },
     {
       "month": 3,
@@ -59774,12 +59774,12 @@
     {
       "month": 3,
       "day": 25,
-      "plays": 139
+      "plays": 145
     },
     {
       "month": 3,
       "day": 26,
-      "plays": 79
+      "plays": 73
     },
     {
       "month": 3,
@@ -59834,12 +59834,12 @@
     {
       "month": 4,
       "day": 6,
-      "plays": 21
+      "plays": 25
     },
     {
       "month": 4,
       "day": 7,
-      "plays": 41
+      "plays": 37
     },
     {
       "month": 4,
@@ -60719,12 +60719,12 @@
     {
       "month": 10,
       "day": 11,
-      "plays": 89
+      "plays": 94
     },
     {
       "month": 10,
       "day": 12,
-      "plays": 32
+      "plays": 27
     },
     {
       "month": 10,
@@ -60734,12 +60734,7 @@
     {
       "month": 10,
       "day": 15,
-      "plays": 38
-    },
-    {
-      "month": 10,
-      "day": 16,
-      "plays": 2
+      "plays": 40
     },
     {
       "month": 10,
@@ -60884,22 +60879,22 @@
     {
       "month": 11,
       "day": 15,
-      "plays": 113
+      "plays": 116
     },
     {
       "month": 11,
       "day": 16,
-      "plays": 7
+      "plays": 4
     },
     {
       "month": 11,
       "day": 17,
-      "plays": 20
+      "plays": 33
     },
     {
       "month": 11,
       "day": 18,
-      "plays": 75
+      "plays": 62
     },
     {
       "month": 11,
@@ -61024,12 +61019,12 @@
     {
       "month": 12,
       "day": 16,
-      "plays": 33
+      "plays": 35
     },
     {
       "month": 12,
       "day": 17,
-      "plays": 50
+      "plays": 48
     },
     {
       "month": 12,
@@ -61074,22 +61069,22 @@
     {
       "month": 12,
       "day": 28,
-      "plays": 27
+      "plays": 39
     },
     {
       "month": 12,
       "day": 29,
-      "plays": 66
+      "plays": 54
     },
     {
       "month": 12,
       "day": 30,
-      "plays": 226
+      "plays": 234
     },
     {
       "month": 12,
       "day": 31,
-      "plays": 59
+      "plays": 51
     }
   ],
   "most_played_day": {

@@ -1,6 +1,6 @@
 {
   "year": 2015,
-  "generated_at": "2026-01-07T10:09:23.938126+00:00",
+  "generated_at": "2026-01-13T01:25:43.618446+00:00",
   "total_plays": 1763,
   "total_play_time_ms": 475132412,
   "unique_artists": 170,
@@ -13203,10 +13203,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2015-02-04T21:51:49+11:00",
-  "last_play": "2015-12-30T22:55:58+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2015-02-04T20:51:49+00:00",
+  "last_play": "2015-12-30T21:55:58+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Steven Wilson",
@@ -13439,15 +13439,15 @@
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 30
+      "plays": 39
     },
     {
       "bucket": 1,
-      "plays": 54
+      "plays": 30
     },
     {
       "bucket": 2,
-      "plays": 6
+      "plays": 4
     },
     {
       "bucket": 3,
@@ -13471,85 +13471,85 @@
     },
     {
       "bucket": 8,
-      "plays": 4
+      "plays": 27
     },
     {
       "bucket": 9,
-      "plays": 30
+      "plays": 73
     },
     {
       "bucket": 10,
-      "plays": 90
+      "plays": 76
     },
     {
       "bucket": 11,
-      "plays": 69
+      "plays": 47
     },
     {
       "bucket": 12,
-      "plays": 41
+      "plays": 70
     },
     {
       "bucket": 13,
-      "plays": 96
+      "plays": 109
     },
     {
       "bucket": 14,
-      "plays": 94
+      "plays": 129
     },
     {
       "bucket": 15,
-      "plays": 140
+      "plays": 126
     },
     {
       "bucket": 16,
-      "plays": 173
+      "plays": 133
     },
     {
       "bucket": 17,
-      "plays": 100
+      "plays": 103
     },
     {
       "bucket": 18,
-      "plays": 105
-    },
-    {
-      "bucket": 19,
       "plays": 94
     },
     {
+      "bucket": 19,
+      "plays": 75
+    },
+    {
       "bucket": 20,
-      "plays": 149
+      "plays": 168
     },
     {
       "bucket": 21,
-      "plays": 188
+      "plays": 241
     },
     {
       "bucket": 22,
-      "plays": 216
+      "plays": 166
     },
     {
       "bucket": 23,
-      "plays": 84
+      "plays": 53
     }
   ],
   "plays_by_weekday": [
     {
       "bucket": 0,
-      "plays": 223
+      "plays": 228
     },
     {
       "bucket": 1,
-      "plays": 259
+      "plays": 255
     },
     {
       "bucket": 2,
-      "plays": 198
+      "plays": 199
     },
     {
       "bucket": 3,
-      "plays": 468
+      "plays": 466
     },
     {
       "bucket": 4,
@@ -13557,11 +13557,11 @@
     },
     {
       "bucket": 5,
-      "plays": 180
+      "plays": 189
     },
     {
       "bucket": 6,
-      "plays": 271
+      "plays": 262
     }
   ],
   "plays_heatmap": [
@@ -13593,12 +13593,12 @@
     {
       "month": 2,
       "day": 23,
-      "plays": 43
+      "plays": 47
     },
     {
       "month": 2,
       "day": 24,
-      "plays": 38
+      "plays": 34
     },
     {
       "month": 2,
@@ -13638,12 +13638,17 @@
     {
       "month": 3,
       "day": 4,
-      "plays": 63
+      "plays": 64
     },
     {
       "month": 3,
       "day": 5,
-      "plays": 42
+      "plays": 41
+    },
+    {
+      "month": 3,
+      "day": 10,
+      "plays": 1
     },
     {
       "month": 3,
@@ -13653,7 +13658,7 @@
     {
       "month": 3,
       "day": 12,
-      "plays": 5
+      "plays": 4
     },
     {
       "month": 3,
@@ -13983,12 +13988,12 @@
     {
       "month": 10,
       "day": 19,
-      "plays": 5
+      "plays": 6
     },
     {
       "month": 10,
       "day": 20,
-      "plays": 14
+      "plays": 13
     },
     {
       "month": 10,
@@ -14008,12 +14013,12 @@
     {
       "month": 10,
       "day": 24,
-      "plays": 24
+      "plays": 32
     },
     {
       "month": 10,
       "day": 25,
-      "plays": 35
+      "plays": 27
     },
     {
       "month": 10,
@@ -14058,12 +14063,12 @@
     {
       "month": 12,
       "day": 5,
-      "plays": 1
+      "plays": 2
     },
     {
       "month": 12,
       "day": 6,
-      "plays": 4
+      "plays": 3
     },
     {
       "month": 12,
@@ -14110,16 +14115,6 @@
       "name": "feuer frei",
       "artist": "rammstein",
       "max_daily_plays": 4
-    },
-    {
-      "name": "first regret / 3 years older",
-      "artist": "steven wilson",
-      "max_daily_plays": 3
-    },
-    {
-      "name": "home invasion / regret #9",
-      "artist": "steven wilson",
-      "max_daily_plays": 3
     },
     {
       "name": "engel",

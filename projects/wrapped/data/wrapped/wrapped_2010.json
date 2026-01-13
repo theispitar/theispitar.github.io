@@ -1,6 +1,6 @@
 {
   "year": 2010,
-  "generated_at": "2026-01-07T10:09:19.191627+00:00",
+  "generated_at": "2026-01-13T01:25:38.616154+00:00",
   "total_plays": 20673,
   "total_play_time_ms": 6047709140,
   "unique_artists": 118,
@@ -26322,10 +26322,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2010-01-01T21:31:31+11:00",
-  "last_play": "2010-12-31T20:30:15+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2010-01-01T20:31:31+00:00",
+  "last_play": "2010-12-31T19:30:15+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Opeth",
@@ -26508,11 +26508,11 @@
   "plays_by_month": [
     {
       "bucket": 1,
-      "plays": 2822
+      "plays": 2836
     },
     {
       "bucket": 2,
-      "plays": 3049
+      "plays": 3035
     },
     {
       "bucket": 3,
@@ -26558,129 +26558,129 @@
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 945
+      "plays": 522
     },
     {
       "bucket": 1,
-      "plays": 459
+      "plays": 219
     },
     {
       "bucket": 2,
-      "plays": 174
+      "plays": 181
     },
     {
       "bucket": 3,
-      "plays": 172
+      "plays": 70
     },
     {
       "bucket": 4,
-      "plays": 55
+      "plays": 15
     },
     {
       "bucket": 5,
-      "plays": 12
+      "plays": 0
     },
     {
       "bucket": 6,
-      "plays": 4
+      "plays": 16
     },
     {
       "bucket": 7,
-      "plays": 193
+      "plays": 423
     },
     {
       "bucket": 8,
-      "plays": 533
+      "plays": 690
     },
     {
       "bucket": 9,
-      "plays": 708
+      "plays": 753
     },
     {
       "bucket": 10,
-      "plays": 813
+      "plays": 1052
     },
     {
       "bucket": 11,
-      "plays": 1092
+      "plays": 1160
     },
     {
       "bucket": 12,
-      "plays": 1171
+      "plays": 1210
     },
     {
       "bucket": 13,
-      "plays": 1176
+      "plays": 884
     },
     {
       "bucket": 14,
-      "plays": 915
+      "plays": 1119
     },
     {
       "bucket": 15,
-      "plays": 1149
+      "plays": 1238
     },
     {
       "bucket": 16,
-      "plays": 1201
+      "plays": 1210
     },
     {
       "bucket": 17,
-      "plays": 1402
+      "plays": 1570
     },
     {
       "bucket": 18,
-      "plays": 1550
+      "plays": 1533
     },
     {
       "bucket": 19,
-      "plays": 1467
+      "plays": 1491
     },
     {
       "bucket": 20,
-      "plays": 1348
+      "plays": 1262
     },
     {
       "bucket": 21,
-      "plays": 1320
+      "plays": 1353
     },
     {
       "bucket": 22,
-      "plays": 1436
+      "plays": 1606
     },
     {
       "bucket": 23,
-      "plays": 1378
+      "plays": 1096
     }
   ],
   "plays_by_weekday": [
     {
       "bucket": 0,
-      "plays": 3106
+      "plays": 3113
     },
     {
       "bucket": 1,
-      "plays": 3003
+      "plays": 3023
     },
     {
       "bucket": 2,
-      "plays": 2766
+      "plays": 2742
     },
     {
       "bucket": 3,
-      "plays": 2973
+      "plays": 3005
     },
     {
       "bucket": 4,
-      "plays": 2909
+      "plays": 2815
     },
     {
       "bucket": 5,
-      "plays": 2415
+      "plays": 2452
     },
     {
       "bucket": 6,
-      "plays": 3501
+      "plays": 3523
     }
   ],
   "plays_heatmap": [
@@ -26702,52 +26702,52 @@
     {
       "month": 1,
       "day": 9,
-      "plays": 96
+      "plays": 110
     },
     {
       "month": 1,
       "day": 10,
-      "plays": 204
+      "plays": 202
     },
     {
       "month": 1,
       "day": 11,
-      "plays": 141
+      "plays": 142
     },
     {
       "month": 1,
       "day": 12,
-      "plays": 183
+      "plays": 181
     },
     {
       "month": 1,
       "day": 13,
-      "plays": 157
+      "plays": 163
     },
     {
       "month": 1,
       "day": 14,
-      "plays": 164
+      "plays": 162
     },
     {
       "month": 1,
       "day": 15,
-      "plays": 123
+      "plays": 114
     },
     {
       "month": 1,
       "day": 16,
-      "plays": 72
+      "plays": 66
     },
     {
       "month": 1,
       "day": 17,
-      "plays": 9
+      "plays": 11
     },
     {
       "month": 1,
       "day": 18,
-      "plays": 143
+      "plays": 141
     },
     {
       "month": 1,
@@ -26757,47 +26757,47 @@
     {
       "month": 1,
       "day": 20,
-      "plays": 107
-    },
-    {
-      "month": 1,
-      "day": 21,
       "plays": 121
     },
     {
       "month": 1,
+      "day": 21,
+      "plays": 130
+    },
+    {
+      "month": 1,
       "day": 22,
-      "plays": 87
+      "plays": 64
     },
     {
       "month": 1,
       "day": 23,
-      "plays": 123
+      "plays": 131
     },
     {
       "month": 1,
       "day": 24,
-      "plays": 106
+      "plays": 98
     },
     {
       "month": 1,
       "day": 25,
-      "plays": 107
+      "plays": 120
     },
     {
       "month": 1,
       "day": 26,
-      "plays": 104
+      "plays": 108
     },
     {
       "month": 1,
       "day": 27,
-      "plays": 113
+      "plays": 104
     },
     {
       "month": 1,
       "day": 28,
-      "plays": 87
+      "plays": 90
     },
     {
       "month": 1,
@@ -26807,37 +26807,37 @@
     {
       "month": 1,
       "day": 30,
-      "plays": 89
+      "plays": 81
     },
     {
       "month": 1,
       "day": 31,
-      "plays": 124
+      "plays": 135
     },
     {
       "month": 2,
       "day": 1,
-      "plays": 123
+      "plays": 119
     },
     {
       "month": 2,
       "day": 2,
-      "plays": 89
+      "plays": 79
     },
     {
       "month": 2,
       "day": 3,
-      "plays": 109
+      "plays": 110
     },
     {
       "month": 2,
       "day": 4,
-      "plays": 64
+      "plays": 74
     },
     {
       "month": 2,
       "day": 5,
-      "plays": 117
+      "plays": 106
     },
     {
       "month": 2,
@@ -26847,92 +26847,92 @@
     {
       "month": 2,
       "day": 7,
-      "plays": 39
+      "plays": 50
     },
     {
       "month": 2,
       "day": 8,
-      "plays": 105
+      "plays": 107
     },
     {
       "month": 2,
       "day": 9,
-      "plays": 61
+      "plays": 62
     },
     {
       "month": 2,
       "day": 10,
-      "plays": 144
+      "plays": 141
     },
     {
       "month": 2,
       "day": 11,
-      "plays": 119
+      "plays": 112
     },
     {
       "month": 2,
       "day": 12,
-      "plays": 93
+      "plays": 89
     },
     {
       "month": 2,
       "day": 13,
-      "plays": 26
+      "plays": 30
     },
     {
       "month": 2,
       "day": 14,
-      "plays": 126
+      "plays": 138
     },
     {
       "month": 2,
       "day": 15,
-      "plays": 110
+      "plays": 103
     },
     {
       "month": 2,
       "day": 16,
-      "plays": 186
+      "plays": 187
     },
     {
       "month": 2,
       "day": 17,
-      "plays": 104
+      "plays": 94
     },
     {
       "month": 2,
       "day": 18,
-      "plays": 122
+      "plays": 134
     },
     {
       "month": 2,
       "day": 19,
-      "plays": 157
+      "plays": 158
     },
     {
       "month": 2,
       "day": 20,
-      "plays": 79
+      "plays": 69
     },
     {
       "month": 2,
       "day": 21,
-      "plays": 93
+      "plays": 90
     },
     {
       "month": 2,
       "day": 22,
-      "plays": 129
+      "plays": 131
     },
     {
       "month": 2,
       "day": 23,
-      "plays": 239
+      "plays": 255
     },
     {
       "month": 2,
       "day": 24,
-      "plays": 132
+      "plays": 114
     },
     {
       "month": 2,
@@ -26947,32 +26947,32 @@
     {
       "month": 2,
       "day": 27,
-      "plays": 28
+      "plays": 39
     },
     {
       "month": 2,
       "day": 28,
-      "plays": 90
+      "plays": 79
     },
     {
       "month": 3,
       "day": 1,
-      "plays": 63
+      "plays": 75
     },
     {
       "month": 3,
       "day": 2,
-      "plays": 182
+      "plays": 184
     },
     {
       "month": 3,
       "day": 3,
-      "plays": 185
+      "plays": 194
     },
     {
       "month": 3,
       "day": 4,
-      "plays": 154
+      "plays": 131
     },
     {
       "month": 3,
@@ -26987,22 +26987,22 @@
     {
       "month": 3,
       "day": 7,
-      "plays": 17
+      "plays": 31
     },
     {
       "month": 3,
       "day": 8,
-      "plays": 111
+      "plays": 103
     },
     {
       "month": 3,
       "day": 9,
-      "plays": 134
+      "plays": 139
     },
     {
       "month": 3,
       "day": 10,
-      "plays": 69
+      "plays": 58
     },
     {
       "month": 3,
@@ -27012,12 +27012,12 @@
     {
       "month": 3,
       "day": 12,
-      "plays": 96
+      "plays": 100
     },
     {
       "month": 3,
       "day": 13,
-      "plays": 35
+      "plays": 31
     },
     {
       "month": 3,
@@ -27027,12 +27027,12 @@
     {
       "month": 3,
       "day": 15,
-      "plays": 130
+      "plays": 139
     },
     {
       "month": 3,
       "day": 16,
-      "plays": 44
+      "plays": 35
     },
     {
       "month": 3,
@@ -27042,12 +27042,12 @@
     {
       "month": 3,
       "day": 18,
-      "plays": 85
+      "plays": 96
     },
     {
       "month": 3,
       "day": 19,
-      "plays": 74
+      "plays": 63
     },
     {
       "month": 3,
@@ -27062,12 +27062,12 @@
     {
       "month": 3,
       "day": 22,
-      "plays": 62
+      "plays": 78
     },
     {
       "month": 3,
       "day": 23,
-      "plays": 123
+      "plays": 107
     },
     {
       "month": 3,
@@ -27077,17 +27077,17 @@
     {
       "month": 3,
       "day": 25,
-      "plays": 182
+      "plays": 194
     },
     {
       "month": 3,
       "day": 26,
-      "plays": 157
+      "plays": 149
     },
     {
       "month": 3,
       "day": 27,
-      "plays": 55
+      "plays": 51
     },
     {
       "month": 3,
@@ -27907,12 +27907,12 @@
     {
       "month": 10,
       "day": 3,
-      "plays": 33
+      "plays": 45
     },
     {
       "month": 10,
       "day": 4,
-      "plays": 272
+      "plays": 260
     },
     {
       "month": 10,
@@ -27927,22 +27927,22 @@
     {
       "month": 10,
       "day": 7,
-      "plays": 44
+      "plays": 51
     },
     {
       "month": 10,
       "day": 8,
-      "plays": 50
+      "plays": 43
     },
     {
       "month": 10,
       "day": 9,
-      "plays": 169
+      "plays": 184
     },
     {
       "month": 10,
       "day": 10,
-      "plays": 231
+      "plays": 216
     },
     {
       "month": 10,
@@ -27952,12 +27952,12 @@
     {
       "month": 10,
       "day": 12,
-      "plays": 22
+      "plays": 23
     },
     {
       "month": 10,
       "day": 13,
-      "plays": 40
+      "plays": 39
     },
     {
       "month": 10,
@@ -27972,12 +27972,12 @@
     {
       "month": 10,
       "day": 16,
-      "plays": 47
+      "plays": 49
     },
     {
       "month": 10,
       "day": 17,
-      "plays": 34
+      "plays": 32
     },
     {
       "month": 10,
@@ -27987,12 +27987,12 @@
     {
       "month": 10,
       "day": 19,
-      "plays": 37
+      "plays": 39
     },
     {
       "month": 10,
       "day": 20,
-      "plays": 45
+      "plays": 43
     },
     {
       "month": 10,
@@ -28022,32 +28022,32 @@
     {
       "month": 10,
       "day": 26,
-      "plays": 27
+      "plays": 36
     },
     {
       "month": 10,
       "day": 27,
-      "plays": 92
+      "plays": 87
     },
     {
       "month": 10,
       "day": 28,
-      "plays": 127
+      "plays": 145
     },
     {
       "month": 10,
       "day": 29,
-      "plays": 59
+      "plays": 37
     },
     {
       "month": 10,
       "day": 30,
-      "plays": 2
+      "plays": 5
     },
     {
       "month": 10,
       "day": 31,
-      "plays": 17
+      "plays": 14
     },
     {
       "month": 11,
@@ -28057,12 +28057,12 @@
     {
       "month": 11,
       "day": 2,
-      "plays": 28
+      "plays": 29
     },
     {
       "month": 11,
       "day": 3,
-      "plays": 16
+      "plays": 15
     },
     {
       "month": 11,
@@ -28072,37 +28072,37 @@
     {
       "month": 11,
       "day": 5,
-      "plays": 87
+      "plays": 106
     },
     {
       "month": 11,
       "day": 6,
-      "plays": 195
+      "plays": 199
     },
     {
       "month": 11,
       "day": 7,
-      "plays": 208
+      "plays": 189
     },
     {
       "month": 11,
       "day": 8,
-      "plays": 25
-    },
-    {
-      "month": 11,
-      "day": 9,
       "plays": 24
     },
     {
       "month": 11,
+      "day": 9,
+      "plays": 35
+    },
+    {
+      "month": 11,
       "day": 10,
-      "plays": 62
+      "plays": 63
     },
     {
       "month": 11,
       "day": 11,
-      "plays": 39
+      "plays": 24
     },
     {
       "month": 11,
@@ -28117,22 +28117,22 @@
     {
       "month": 11,
       "day": 14,
-      "plays": 179
+      "plays": 193
     },
     {
       "month": 11,
       "day": 15,
-      "plays": 40
+      "plays": 26
     },
     {
       "month": 11,
       "day": 16,
-      "plays": 122
+      "plays": 144
     },
     {
       "month": 11,
       "day": 17,
-      "plays": 90
+      "plays": 68
     },
     {
       "month": 11,
@@ -28152,32 +28152,32 @@
     {
       "month": 11,
       "day": 21,
-      "plays": 202
+      "plays": 216
     },
     {
       "month": 11,
       "day": 22,
-      "plays": 81
+      "plays": 84
     },
     {
       "month": 11,
       "day": 23,
-      "plays": 67
+      "plays": 50
     },
     {
       "month": 11,
       "day": 24,
-      "plays": 58
+      "plays": 70
     },
     {
       "month": 11,
       "day": 25,
-      "plays": 115
+      "plays": 114
     },
     {
       "month": 11,
       "day": 26,
-      "plays": 38
+      "plays": 27
     },
     {
       "month": 11,
@@ -28187,12 +28187,12 @@
     {
       "month": 11,
       "day": 28,
-      "plays": 82
+      "plays": 86
     },
     {
       "month": 11,
       "day": 29,
-      "plays": 40
+      "plays": 36
     },
     {
       "month": 12,
@@ -28207,32 +28207,32 @@
     {
       "month": 12,
       "day": 4,
-      "plays": 16
+      "plays": 24
     },
     {
       "month": 12,
       "day": 5,
-      "plays": 13
+      "plays": 5
     },
     {
       "month": 12,
       "day": 6,
-      "plays": 17
+      "plays": 18
     },
     {
       "month": 12,
       "day": 7,
-      "plays": 19
+      "plays": 18
     },
     {
       "month": 12,
       "day": 8,
-      "plays": 85
+      "plays": 98
     },
     {
       "month": 12,
       "day": 9,
-      "plays": 48
+      "plays": 35
     },
     {
       "month": 12,
@@ -28242,12 +28242,12 @@
     {
       "month": 12,
       "day": 11,
-      "plays": 67
+      "plays": 68
     },
     {
       "month": 12,
       "day": 12,
-      "plays": 41
+      "plays": 40
     },
     {
       "month": 12,
@@ -28272,12 +28272,12 @@
     {
       "month": 12,
       "day": 17,
-      "plays": 28
+      "plays": 29
     },
     {
       "month": 12,
       "day": 18,
-      "plays": 61
+      "plays": 60
     },
     {
       "month": 12,
@@ -28317,22 +28317,22 @@
     {
       "month": 12,
       "day": 29,
-      "plays": 8
+      "plays": 10
     },
     {
       "month": 12,
       "day": 30,
-      "plays": 96
+      "plays": 107
     },
     {
       "month": 12,
       "day": 31,
-      "plays": 87
+      "plays": 74
     }
   ],
   "most_played_day": {
     "bucket": "2010-10-04",
-    "plays": 272
+    "plays": 260
   },
   "longest_streak": {
     "length": 88,
@@ -28398,23 +28398,23 @@
       "top_genres": [
         {
           "name": "rock",
-          "plays": 1465
+          "plays": 1472
         },
         {
           "name": "metal",
-          "plays": 1256
+          "plays": 1260
         },
         {
           "name": "alternative",
-          "plays": 927
+          "plays": 932
         },
         {
           "name": "alternative rock",
-          "plays": 763
+          "plays": 768
         },
         {
           "name": "progressive rock",
-          "plays": 666
+          "plays": 669
         }
       ]
     },
@@ -28424,23 +28424,23 @@
       "top_genres": [
         {
           "name": "metal",
-          "plays": 1402
+          "plays": 1398
         },
         {
           "name": "rock",
-          "plays": 1384
+          "plays": 1377
         },
         {
           "name": "alternative",
-          "plays": 823
+          "plays": 818
         },
         {
           "name": "alternative rock",
-          "plays": 675
+          "plays": 670
         },
         {
           "name": "progressive rock",
-          "plays": 658
+          "plays": 655
         }
       ]
     },

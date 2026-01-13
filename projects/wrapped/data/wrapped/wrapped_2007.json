@@ -1,8 +1,8 @@
 {
   "year": 2007,
-  "generated_at": "2026-01-07T10:09:15.491837+00:00",
-  "total_plays": 24036,
-  "total_play_time_ms": 5818396125,
+  "generated_at": "2026-01-13T01:25:35.343367+00:00",
+  "total_plays": 24050,
+  "total_play_time_ms": 5821722045,
   "unique_artists": 127,
   "unique_tracks": 1993,
   "unique_artists_list": [
@@ -8358,27 +8358,27 @@
   "artist_play_counts": [
     {
       "name": "Muse",
-      "plays": 2437
+      "plays": 2438
     },
     {
       "name": "Marilyn Manson",
-      "plays": 2371
+      "plays": 2372
     },
     {
       "name": "Korn",
-      "plays": 2037
+      "plays": 2038
     },
     {
       "name": "Fear Factory",
-      "plays": 1884
+      "plays": 1886
     },
     {
       "name": "System of a Down",
-      "plays": 1643
+      "plays": 1645
     },
     {
       "name": "Nine Inch Nails",
-      "plays": 1609
+      "plays": 1610
     },
     {
       "name": "Linkin Park",
@@ -8398,11 +8398,11 @@
     },
     {
       "name": "KMFDM",
-      "plays": 651
+      "plays": 652
     },
     {
       "name": "Disturbed",
-      "plays": 649
+      "plays": 650
     },
     {
       "name": "Evanescence",
@@ -8430,7 +8430,7 @@
     },
     {
       "name": "Bloodhound Gang",
-      "plays": 282
+      "plays": 283
     },
     {
       "name": "Rage Against the Machine",
@@ -8466,7 +8466,7 @@
     },
     {
       "name": "The Butterfly Effect",
-      "plays": 184
+      "plays": 185
     },
     {
       "name": "Cradle of Filth",
@@ -8494,7 +8494,7 @@
     },
     {
       "name": "Grinspoon",
-      "plays": 86
+      "plays": 87
     },
     {
       "name": "A Perfect Circle",
@@ -8514,7 +8514,7 @@
     },
     {
       "name": "Within Temptation",
-      "plays": 64
+      "plays": 65
     },
     {
       "name": "The Red Paintings",
@@ -8880,7 +8880,7 @@
     },
     {
       "name": "The Golden Age of Grotesque",
-      "plays": 491
+      "plays": 492
     },
     {
       "name": "Absolution",
@@ -8899,16 +8899,16 @@
       "plays": 396
     },
     {
+      "name": "Showbiz",
+      "plays": 396
+    },
+    {
       "name": "Antichrist Superstar",
       "plays": 396
     },
     {
-      "name": "Showbiz",
-      "plays": 395
-    },
-    {
       "name": "See You on the Other Side",
-      "plays": 393
+      "plays": 394
     },
     {
       "name": "Hybrid Theory",
@@ -8916,7 +8916,7 @@
     },
     {
       "name": "Toxicity",
-      "plays": 367
+      "plays": 368
     },
     {
       "name": "Meteora",
@@ -8928,15 +8928,15 @@
     },
     {
       "name": "Digimortal",
-      "plays": 344
+      "plays": 345
+    },
+    {
+      "name": "The Sickness",
+      "plays": 332
     },
     {
       "name": "Hypnotize",
       "plays": 332
-    },
-    {
-      "name": "The Sickness",
-      "plays": 331
     },
     {
       "name": "Reanimation",
@@ -8944,7 +8944,7 @@
     },
     {
       "name": "Demanufacture",
-      "plays": 311
+      "plays": 312
     },
     {
       "name": "Steal This Album",
@@ -8956,7 +8956,7 @@
     },
     {
       "name": "Mezmerize",
-      "plays": 279
+      "plays": 280
     },
     {
       "name": "Ten Thousand Fists",
@@ -9004,7 +9004,7 @@
     },
     {
       "name": "Hau Ruck",
-      "plays": 202
+      "plays": 203
     },
     {
       "name": "Results May Vary",
@@ -9012,7 +9012,7 @@
     },
     {
       "name": "Begins Here",
-      "plays": 183
+      "plays": 184
     },
     {
       "name": "Demon Days",
@@ -9091,15 +9091,15 @@
       "plays": 104
     },
     {
+      "name": "Hooray for Boobies",
+      "plays": 100
+    },
+    {
       "name": "Payable on Death",
       "plays": 99
     },
     {
       "name": "One Hot Minute",
-      "plays": 99
-    },
-    {
-      "name": "Hooray for Boobies",
       "plays": 99
     },
     {
@@ -9132,7 +9132,7 @@
     },
     {
       "name": "New Detention",
-      "plays": 86
+      "plays": 87
     },
     {
       "name": "With Teeth",
@@ -9164,7 +9164,7 @@
     },
     {
       "name": "The Heart of Everything",
-      "plays": 64
+      "plays": 65
     },
     {
       "name": "Tuxicity",
@@ -9946,7 +9946,7 @@
     {
       "artist": "Muse",
       "track": "Sunburn",
-      "plays": 55
+      "plays": 56
     },
     {
       "artist": "Muse",
@@ -10290,6 +10290,11 @@
     },
     {
       "artist": "System of a Down",
+      "track": "Cigaro",
+      "plays": 38
+    },
+    {
+      "artist": "System of a Down",
       "track": "Sugar",
       "plays": 38
     },
@@ -10339,11 +10344,6 @@
       "plays": 37
     },
     {
-      "artist": "System of a Down",
-      "track": "Cigaro",
-      "plays": 37
-    },
-    {
       "artist": "Bloodhound Gang",
       "track": "Uhn Tiss Uhn Tiss Uhn Tiss",
       "plays": 37
@@ -10366,6 +10366,11 @@
     {
       "artist": "Marilyn Manson",
       "track": "Burning Flag",
+      "plays": 36
+    },
+    {
+      "artist": "Marilyn Manson",
+      "track": "The Bright Young Things",
       "plays": 36
     },
     {
@@ -10421,11 +10426,6 @@
     {
       "artist": "Marilyn Manson",
       "track": "King Kill 33°",
-      "plays": 35
-    },
-    {
-      "artist": "Marilyn Manson",
-      "track": "The Bright Young Things",
       "plays": 35
     },
     {
@@ -10525,6 +10525,11 @@
     },
     {
       "artist": "Korn",
+      "track": "Seen It All",
+      "plays": 33
+    },
+    {
+      "artist": "Korn",
       "track": "Alive",
       "plays": 33
     },
@@ -10590,6 +10595,11 @@
     },
     {
       "artist": "System of a Down",
+      "track": "ATWA",
+      "plays": 33
+    },
+    {
+      "artist": "System of a Down",
       "track": "She's Like Heroin",
       "plays": 33
     },
@@ -10601,11 +10611,6 @@
     {
       "artist": "Muse",
       "track": "Futurism",
-      "plays": 32
-    },
-    {
-      "artist": "Korn",
-      "track": "Seen It All",
       "plays": 32
     },
     {
@@ -10676,11 +10681,6 @@
     {
       "artist": "System of a Down",
       "track": "Forest",
-      "plays": 32
-    },
-    {
-      "artist": "System of a Down",
-      "track": "ATWA",
       "plays": 32
     },
     {
@@ -10824,6 +10824,11 @@
       "plays": 31
     },
     {
+      "artist": "The Butterfly Effect",
+      "track": "Consequence",
+      "plays": 31
+    },
+    {
       "artist": "Linkin Park",
       "track": "With You",
       "plays": 31
@@ -10841,6 +10846,11 @@
     {
       "artist": "Cradle of Filth",
       "track": "Absinthe With Faust",
+      "plays": 31
+    },
+    {
+      "artist": "Fear Factory",
+      "track": "Digimortal",
       "plays": 31
     },
     {
@@ -10939,11 +10949,6 @@
       "plays": 30
     },
     {
-      "artist": "The Butterfly Effect",
-      "track": "Consequence",
-      "plays": 30
-    },
-    {
       "artist": "System of a Down",
       "track": "Aerials",
       "plays": 30
@@ -10951,11 +10956,6 @@
     {
       "artist": "System of a Down",
       "track": "Innervision",
-      "plays": 30
-    },
-    {
-      "artist": "Fear Factory",
-      "track": "Digimortal",
       "plays": 30
     },
     {
@@ -11069,6 +11069,11 @@
       "plays": 29
     },
     {
+      "artist": "Nine Inch Nails",
+      "track": "The Good Soldier",
+      "plays": 29
+    },
+    {
       "artist": "KMFDM",
       "track": "Professional Killer",
       "plays": 29
@@ -11091,6 +11096,11 @@
     {
       "artist": "Disturbed",
       "track": "Stupify",
+      "plays": 28
+    },
+    {
+      "artist": "Disturbed",
+      "track": "Droppin' Plates",
       "plays": 28
     },
     {
@@ -11199,11 +11209,6 @@
       "plays": 28
     },
     {
-      "artist": "Nine Inch Nails",
-      "track": "The Good Soldier",
-      "plays": 28
-    },
-    {
       "artist": "No Doubt",
       "track": "Sunday Morning",
       "plays": 28
@@ -11212,11 +11217,6 @@
       "artist": "Nine Inch Nails",
       "track": "Me, I'm Not",
       "plays": 28
-    },
-    {
-      "artist": "Disturbed",
-      "track": "Droppin' Plates",
-      "plays": 27
     },
     {
       "artist": "Muse",
@@ -11484,6 +11484,11 @@
       "plays": 26
     },
     {
+      "artist": "Fear Factory",
+      "track": "Zero Signal",
+      "plays": 26
+    },
+    {
       "artist": "No Doubt",
       "track": "Excuse Me Mr",
       "plays": 26
@@ -11621,11 +11626,6 @@
     {
       "artist": "Nine Inch Nails",
       "track": "Right Where It Belongs",
-      "plays": 25
-    },
-    {
-      "artist": "Fear Factory",
-      "track": "Zero Signal",
       "plays": 25
     },
     {
@@ -12029,6 +12029,11 @@
       "plays": 23
     },
     {
+      "artist": "Bloodhound Gang",
+      "track": "The Bad Touch",
+      "plays": 23
+    },
+    {
       "artist": "Placebo",
       "track": "The Bitter End",
       "plays": 23
@@ -12116,11 +12121,6 @@
     {
       "artist": "Fear Factory",
       "track": "Strain vs. Resistance",
-      "plays": 22
-    },
-    {
-      "artist": "Bloodhound Gang",
-      "track": "The Bad Touch",
       "plays": 22
     },
     {
@@ -12784,6 +12784,11 @@
       "plays": 17
     },
     {
+      "artist": "KMFDM",
+      "track": "Feed Our Fame",
+      "plays": 17
+    },
+    {
       "artist": "Nine Inch Nails",
       "track": "Meet Your Master",
       "plays": 17
@@ -12971,11 +12976,6 @@
     {
       "artist": "Marilyn Manson",
       "track": "If I Was Your Vampire",
-      "plays": 16
-    },
-    {
-      "artist": "KMFDM",
-      "track": "Feed Our Fame",
       "plays": 16
     },
     {
@@ -14649,6 +14649,11 @@
       "plays": 8
     },
     {
+      "artist": "Grinspoon",
+      "track": "Lost Control",
+      "plays": 8
+    },
+    {
       "artist": "Creed",
       "track": "Beautiful",
       "plays": 8
@@ -14691,6 +14696,11 @@
     {
       "artist": "Rob Zombie",
       "track": "The Scorpion Sleeps",
+      "plays": 8
+    },
+    {
+      "artist": "Within Temptation",
+      "track": "Frozen",
       "plays": 8
     },
     {
@@ -14904,11 +14914,6 @@
       "plays": 7
     },
     {
-      "artist": "Grinspoon",
-      "track": "Lost Control",
-      "plays": 7
-    },
-    {
       "artist": "KMFDM",
       "track": "Intro",
       "plays": 7
@@ -14921,11 +14926,6 @@
     {
       "artist": "Within Temptation",
       "track": "What Have You Done (feat. Keith Caputo)",
-      "plays": 7
-    },
-    {
-      "artist": "Within Temptation",
-      "track": "Frozen",
       "plays": 7
     },
     {
@@ -19814,34 +19814,34 @@
       "plays": 1
     }
   ],
-  "first_play": "2007-02-04T00:58:55+11:00",
-  "last_play": "2007-12-31T23:58:21+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2007-02-03T23:58:55+00:00",
+  "last_play": "2007-12-31T23:57:41+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Muse",
-      "plays": 2437
+      "plays": 2438
     },
     {
       "name": "Marilyn Manson",
-      "plays": 2371
+      "plays": 2372
     },
     {
       "name": "Korn",
-      "plays": 2037
+      "plays": 2038
     },
     {
       "name": "Fear Factory",
-      "plays": 1884
+      "plays": 1886
     },
     {
       "name": "System of a Down",
-      "plays": 1643
+      "plays": 1645
     },
     {
       "name": "Nine Inch Nails",
-      "plays": 1609
+      "plays": 1610
     },
     {
       "name": "Linkin Park",
@@ -19927,7 +19927,7 @@
     },
     {
       "name": "The Golden Age of Grotesque",
-      "plays": 491
+      "plays": 492
     },
     {
       "name": "Absolution",
@@ -19946,54 +19946,54 @@
       "plays": 396
     },
     {
-      "name": "Antichrist Superstar",
+      "name": "Showbiz",
       "plays": 396
     },
     {
-      "name": "Showbiz",
-      "plays": 395
+      "name": "Antichrist Superstar",
+      "plays": 396
     }
   ],
   "top_genres": [
     {
       "name": "rock",
-      "plays": 18117
+      "plays": 18128
     },
     {
       "name": "metal",
-      "plays": 11392
+      "plays": 11401
     },
     {
       "name": "alternative",
-      "plays": 10832
+      "plays": 10837
     },
     {
       "name": "alternative rock",
-      "plays": 7032
+      "plays": 7036
     },
     {
       "name": "nu metal",
-      "plays": 6825
+      "plays": 6829
     },
     {
       "name": "industrial",
-      "plays": 6348
+      "plays": 6353
     },
     {
       "name": "alternative metal",
-      "plays": 5857
+      "plays": 5860
     },
     {
       "name": "industrial metal",
-      "plays": 5059
+      "plays": 5063
     },
     {
       "name": "electronic",
-      "plays": 3253
+      "plays": 3255
     },
     {
       "name": "industrial rock",
-      "plays": 2631
+      "plays": 2633
     }
   ],
   "total_genres": 265,
@@ -20040,123 +20040,123 @@
     },
     {
       "bucket": 11,
-      "plays": 2932
+      "plays": 2947
     },
     {
       "bucket": 12,
-      "plays": 2920
+      "plays": 2919
     }
   ],
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 438
+      "plays": 310
     },
     {
       "bucket": 1,
-      "plays": 178
+      "plays": 147
     },
     {
       "bucket": 2,
-      "plays": 97
+      "plays": 96
     },
     {
       "bucket": 3,
-      "plays": 51
+      "plays": 52
     },
     {
       "bucket": 4,
-      "plays": 42
+      "plays": 38
     },
     {
       "bucket": 5,
-      "plays": 36
+      "plays": 27
     },
     {
       "bucket": 6,
-      "plays": 49
+      "plays": 124
     },
     {
       "bucket": 7,
-      "plays": 280
+      "plays": 409
     },
     {
       "bucket": 8,
-      "plays": 599
+      "plays": 733
     },
     {
       "bucket": 9,
-      "plays": 1131
+      "plays": 1244
     },
     {
       "bucket": 10,
-      "plays": 1368
+      "plays": 1437
     },
     {
       "bucket": 11,
-      "plays": 1493
+      "plays": 1501
     },
     {
       "bucket": 12,
-      "plays": 1552
+      "plays": 1514
     },
     {
       "bucket": 13,
-      "plays": 1587
+      "plays": 1520
     },
     {
       "bucket": 14,
-      "plays": 1496
+      "plays": 1495
     },
     {
       "bucket": 15,
-      "plays": 1557
+      "plays": 1534
     },
     {
       "bucket": 16,
-      "plays": 1469
+      "plays": 1527
     },
     {
       "bucket": 17,
-      "plays": 1494
+      "plays": 1570
     },
     {
       "bucket": 18,
-      "plays": 1529
+      "plays": 1544
     },
     {
       "bucket": 19,
-      "plays": 1545
+      "plays": 1527
     },
     {
       "bucket": 20,
-      "plays": 1593
+      "plays": 1636
     },
     {
       "bucket": 21,
-      "plays": 1610
+      "plays": 1655
     },
     {
       "bucket": 22,
-      "plays": 1685
+      "plays": 1562
     },
     {
       "bucket": 23,
-      "plays": 1157
+      "plays": 848
     }
   ],
   "plays_by_weekday": [
     {
       "bucket": 0,
-      "plays": 2986
+      "plays": 2988
     },
     {
       "bucket": 1,
-      "plays": 3436
+      "plays": 3451
     },
     {
       "bucket": 2,
-      "plays": 3618
+      "plays": 3590
     },
     {
       "bucket": 3,
@@ -20164,22 +20164,27 @@
     },
     {
       "bucket": 4,
-      "plays": 3656
+      "plays": 3669
     },
     {
       "bucket": 5,
-      "plays": 3149
+      "plays": 3166
     },
     {
       "bucket": 6,
-      "plays": 3626
+      "plays": 3621
     }
   ],
   "plays_heatmap": [
     {
       "month": 2,
+      "day": 3,
+      "plays": 1
+    },
+    {
+      "month": 2,
       "day": 4,
-      "plays": 73
+      "plays": 72
     },
     {
       "month": 2,
@@ -20234,12 +20239,12 @@
     {
       "month": 2,
       "day": 18,
-      "plays": 121
+      "plays": 126
     },
     {
       "month": 2,
       "day": 19,
-      "plays": 182
+      "plays": 177
     },
     {
       "month": 2,
@@ -20279,12 +20284,12 @@
     {
       "month": 3,
       "day": 21,
-      "plays": 14
+      "plays": 15
     },
     {
       "month": 3,
       "day": 22,
-      "plays": 3
+      "plays": 2
     },
     {
       "month": 3,
@@ -20294,12 +20299,7 @@
     {
       "month": 3,
       "day": 24,
-      "plays": 13
-    },
-    {
-      "month": 3,
-      "day": 25,
-      "plays": 1
+      "plays": 14
     },
     {
       "month": 3,
@@ -21024,12 +21024,12 @@
     {
       "month": 11,
       "day": 3,
-      "plays": 157
+      "plays": 169
     },
     {
       "month": 11,
       "day": 4,
-      "plays": 79
+      "plays": 67
     },
     {
       "month": 11,
@@ -21049,12 +21049,12 @@
     {
       "month": 11,
       "day": 8,
-      "plays": 105
+      "plays": 106
     },
     {
       "month": 11,
       "day": 9,
-      "plays": 147
+      "plays": 146
     },
     {
       "month": 11,
@@ -21134,42 +21134,42 @@
     {
       "month": 11,
       "day": 25,
-      "plays": 166
+      "plays": 180
     },
     {
       "month": 11,
       "day": 26,
-      "plays": 174
+      "plays": 171
     },
     {
       "month": 11,
       "day": 27,
-      "plays": 155
+      "plays": 157
     },
     {
       "month": 11,
       "day": 28,
-      "plays": 68
+      "plays": 63
     },
     {
       "month": 11,
       "day": 29,
-      "plays": 58
+      "plays": 54
     },
     {
       "month": 11,
       "day": 30,
-      "plays": 23
+      "plays": 34
     },
     {
       "month": 12,
       "day": 1,
-      "plays": 110
+      "plays": 109
     },
     {
       "month": 12,
       "day": 2,
-      "plays": 18
+      "plays": 4
     },
     {
       "month": 12,
@@ -21209,17 +21209,17 @@
     {
       "month": 12,
       "day": 10,
-      "plays": 18
+      "plays": 29
     },
     {
       "month": 12,
       "day": 11,
-      "plays": 98
+      "plays": 91
     },
     {
       "month": 12,
       "day": 12,
-      "plays": 127
+      "plays": 123
     },
     {
       "month": 12,
@@ -21229,12 +21229,12 @@
     {
       "month": 12,
       "day": 14,
-      "plays": 114
+      "plays": 116
     },
     {
       "month": 12,
       "day": 15,
-      "plays": 9
+      "plays": 7
     },
     {
       "month": 12,
@@ -21249,12 +21249,12 @@
     {
       "month": 12,
       "day": 18,
-      "plays": 158
+      "plays": 164
     },
     {
       "month": 12,
       "day": 19,
-      "plays": 47
+      "plays": 41
     },
     {
       "month": 12,
@@ -21274,47 +21274,47 @@
     {
       "month": 12,
       "day": 23,
-      "plays": 206
+      "plays": 215
     },
     {
       "month": 12,
       "day": 24,
-      "plays": 77
+      "plays": 68
     },
     {
       "month": 12,
       "day": 25,
-      "plays": 167
+      "plays": 181
     },
     {
       "month": 12,
       "day": 26,
-      "plays": 101
+      "plays": 87
     },
     {
       "month": 12,
       "day": 27,
-      "plays": 58
+      "plays": 62
     },
     {
       "month": 12,
       "day": 28,
-      "plays": 74
+      "plays": 75
     },
     {
       "month": 12,
       "day": 29,
-      "plays": 164
+      "plays": 170
     },
     {
       "month": 12,
       "day": 30,
-      "plays": 71
+      "plays": 66
     },
     {
       "month": 12,
       "day": 31,
-      "plays": 170
+      "plays": 178
     }
   ],
   "most_played_day": {
@@ -21368,13 +21368,13 @@
       "max_daily_plays": 5
     },
     {
-      "name": "space dementia",
-      "artist": "muse",
+      "name": "act of god",
+      "artist": "fear factory",
       "max_daily_plays": 4
     },
     {
-      "name": "all in the family",
-      "artist": "korn",
+      "name": "undercurrent",
+      "artist": "fear factory",
       "max_daily_plays": 4
     }
   ],
@@ -21603,23 +21603,23 @@
       "top_genres": [
         {
           "name": "rock",
-          "plays": 2041
+          "plays": 2052
         },
         {
           "name": "metal",
-          "plays": 1755
+          "plays": 1761
         },
         {
           "name": "industrial",
-          "plays": 1290
+          "plays": 1296
         },
         {
           "name": "industrial metal",
-          "plays": 1281
+          "plays": 1286
         },
         {
           "name": "alternative",
-          "plays": 1079
+          "plays": 1084
         }
       ]
     },
@@ -21633,11 +21633,11 @@
         },
         {
           "name": "metal",
-          "plays": 1386
+          "plays": 1389
         },
         {
           "name": "industrial",
-          "plays": 1274
+          "plays": 1273
         },
         {
           "name": "alternative",
@@ -21645,7 +21645,7 @@
         },
         {
           "name": "industrial rock",
-          "plays": 831
+          "plays": 828
         }
       ]
     }

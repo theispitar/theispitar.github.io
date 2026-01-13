@@ -1,6 +1,6 @@
 {
   "year": 2025,
-  "generated_at": "2026-01-07T10:09:31.088476+00:00",
+  "generated_at": "2026-01-13T01:25:51.599705+00:00",
   "total_plays": 6670,
   "total_play_time_ms": 2100093518,
   "unique_artists": 169,
@@ -26666,10 +26666,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2025-01-06T10:01:19+11:00",
-  "last_play": "2025-12-24T15:30:54+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2025-01-06T09:01:19+00:00",
+  "last_play": "2025-12-24T14:30:54+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Opeth",
@@ -26906,7 +26906,7 @@
     },
     {
       "bucket": 1,
-      "plays": 2
+      "plays": 1
     },
     {
       "bucket": 2,
@@ -26922,79 +26922,79 @@
     },
     {
       "bucket": 5,
-      "plays": 20
+      "plays": 89
     },
     {
       "bucket": 6,
-      "plays": 195
+      "plays": 127
     },
     {
       "bucket": 7,
-      "plays": 19
+      "plays": 37
     },
     {
       "bucket": 8,
-      "plays": 104
+      "plays": 453
     },
     {
       "bucket": 9,
-      "plays": 674
+      "plays": 826
     },
     {
       "bucket": 10,
-      "plays": 1026
+      "plays": 859
     },
     {
       "bucket": 11,
-      "plays": 803
+      "plays": 554
     },
     {
       "bucket": 12,
-      "plays": 256
+      "plays": 400
     },
     {
       "bucket": 13,
-      "plays": 656
+      "plays": 906
     },
     {
       "bucket": 14,
-      "plays": 1039
+      "plays": 836
     },
     {
       "bucket": 15,
-      "plays": 701
+      "plays": 617
     },
     {
       "bucket": 16,
-      "plays": 549
+      "plays": 430
     },
     {
       "bucket": 17,
-      "plays": 290
+      "plays": 223
     },
     {
       "bucket": 18,
-      "plays": 156
+      "plays": 144
     },
     {
       "bucket": 19,
-      "plays": 92
+      "plays": 94
     },
     {
       "bucket": 20,
-      "plays": 30
+      "plays": 15
     },
     {
       "bucket": 21,
-      "plays": 25
+      "plays": 30
     },
     {
       "bucket": 22,
-      "plays": 23
+      "plays": 18
     },
     {
       "bucket": 23,
-      "plays": 6
+      "plays": 7
     }
   ],
   "plays_by_weekday": [
@@ -27012,11 +27012,11 @@
     },
     {
       "bucket": 3,
-      "plays": 1187
+      "plays": 1188
     },
     {
       "bucket": 4,
-      "plays": 1020
+      "plays": 1019
     },
     {
       "bucket": 5,
@@ -28071,12 +28071,7 @@
     {
       "month": 10,
       "day": 9,
-      "plays": 7
-    },
-    {
-      "month": 10,
-      "day": 10,
-      "plays": 1
+      "plays": 8
     },
     {
       "month": 10,

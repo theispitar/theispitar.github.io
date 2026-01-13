@@ -1,6 +1,6 @@
 {
   "year": 2020,
-  "generated_at": "2026-01-07T10:09:26.967365+00:00",
+  "generated_at": "2026-01-13T01:25:47.044908+00:00",
   "total_plays": 6336,
   "total_play_time_ms": 1969440858,
   "unique_artists": 178,
@@ -27435,10 +27435,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2020-01-01T10:08:48+11:00",
-  "last_play": "2020-12-31T22:30:32+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2020-01-01T09:08:48+00:00",
+  "last_play": "2020-12-31T21:30:32+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Intronaut",
@@ -27691,79 +27691,79 @@
     },
     {
       "bucket": 5,
-      "plays": 0
-    },
-    {
-      "bucket": 6,
       "plays": 3
     },
     {
+      "bucket": 6,
+      "plays": 38
+    },
+    {
       "bucket": 7,
-      "plays": 46
+      "plays": 480
     },
     {
       "bucket": 8,
-      "plays": 511
+      "plays": 625
     },
     {
       "bucket": 9,
-      "plays": 644
+      "plays": 695
     },
     {
       "bucket": 10,
-      "plays": 724
+      "plays": 577
     },
     {
       "bucket": 11,
-      "plays": 598
+      "plays": 431
     },
     {
       "bucket": 12,
-      "plays": 392
+      "plays": 677
     },
     {
       "bucket": 13,
-      "plays": 733
+      "plays": 833
     },
     {
       "bucket": 14,
-      "plays": 808
+      "plays": 706
     },
     {
       "bucket": 15,
-      "plays": 766
+      "plays": 650
     },
     {
       "bucket": 16,
-      "plays": 605
+      "plays": 257
     },
     {
       "bucket": 17,
-      "plays": 184
+      "plays": 141
     },
     {
       "bucket": 18,
-      "plays": 123
+      "plays": 76
     },
     {
       "bucket": 19,
-      "plays": 54
+      "plays": 47
     },
     {
       "bucket": 20,
-      "plays": 55
+      "plays": 40
     },
     {
       "bucket": 21,
-      "plays": 52
+      "plays": 50
     },
     {
       "bucket": 22,
-      "plays": 36
+      "plays": 10
     },
     {
       "bucket": 23,
-      "plays": 2
+      "plays": 0
     }
   ],
   "plays_by_weekday": [

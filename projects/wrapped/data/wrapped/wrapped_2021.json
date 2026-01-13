@@ -1,6 +1,6 @@
 {
   "year": 2021,
-  "generated_at": "2026-01-07T10:09:27.787987+00:00",
+  "generated_at": "2026-01-13T01:25:47.951384+00:00",
   "total_plays": 8440,
   "total_play_time_ms": 2658319160,
   "unique_artists": 291,
@@ -34116,10 +34116,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2021-01-01T15:21:39+11:00",
-  "last_play": "2021-12-27T18:05:25+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2021-01-01T14:21:39+00:00",
+  "last_play": "2021-12-27T17:05:25+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Intronaut",
@@ -34376,71 +34376,71 @@
     },
     {
       "bucket": 6,
-      "plays": 28
+      "plays": 34
     },
     {
       "bucket": 7,
-      "plays": 48
+      "plays": 150
     },
     {
       "bucket": 8,
-      "plays": 334
+      "plays": 748
     },
     {
       "bucket": 9,
-      "plays": 928
+      "plays": 1109
     },
     {
       "bucket": 10,
-      "plays": 1166
+      "plays": 1027
     },
     {
       "bucket": 11,
-      "plays": 883
+      "plays": 613
     },
     {
       "bucket": 12,
-      "plays": 497
+      "plays": 561
     },
     {
       "bucket": 13,
-      "plays": 849
+      "plays": 1097
     },
     {
       "bucket": 14,
-      "plays": 1152
+      "plays": 1072
     },
     {
       "bucket": 15,
-      "plays": 1028
+      "plays": 938
     },
     {
       "bucket": 16,
-      "plays": 827
+      "plays": 620
     },
     {
       "bucket": 17,
-      "plays": 349
+      "plays": 182
     },
     {
       "bucket": 18,
-      "plays": 103
+      "plays": 59
     },
     {
       "bucket": 19,
-      "plays": 88
+      "plays": 78
     },
     {
       "bucket": 20,
-      "plays": 88
+      "plays": 92
     },
     {
       "bucket": 21,
-      "plays": 53
+      "plays": 44
     },
     {
       "bucket": 22,
-      "plays": 14
+      "plays": 11
     },
     {
       "bucket": 23,

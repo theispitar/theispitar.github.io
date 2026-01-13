@@ -1,6 +1,6 @@
 {
   "year": 2018,
-  "generated_at": "2026-01-07T10:09:25.394787+00:00",
+  "generated_at": "2026-01-13T01:25:45.283342+00:00",
   "total_plays": 4925,
   "total_play_time_ms": 1467226740,
   "unique_artists": 291,
@@ -20341,10 +20341,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2018-07-02T07:15:38+10:00",
-  "last_play": "2018-12-31T23:56:25+11:00",
-  "timezone_offset_hours": 10.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2018-07-02T07:15:38+00:00",
+  "last_play": "2018-12-31T22:56:25+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Mastodon",
@@ -20577,19 +20577,19 @@
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 10
+      "plays": 12
     },
     {
       "bucket": 1,
-      "plays": 13
+      "plays": 10
     },
     {
       "bucket": 2,
-      "plays": 9
+      "plays": 5
     },
     {
       "bucket": 3,
-      "plays": 12
+      "plays": 7
     },
     {
       "bucket": 4,
@@ -20597,79 +20597,79 @@
     },
     {
       "bucket": 5,
-      "plays": 0
+      "plays": 19
     },
     {
       "bucket": 6,
-      "plays": 21
+      "plays": 270
     },
     {
       "bucket": 7,
-      "plays": 748
+      "plays": 654
     },
     {
       "bucket": 8,
-      "plays": 379
+      "plays": 268
     },
     {
       "bucket": 9,
-      "plays": 182
+      "plays": 200
     },
     {
       "bucket": 10,
-      "plays": 197
+      "plays": 227
     },
     {
       "bucket": 11,
-      "plays": 261
+      "plays": 256
     },
     {
       "bucket": 12,
-      "plays": 190
+      "plays": 158
     },
     {
       "bucket": 13,
-      "plays": 146
-    },
-    {
-      "bucket": 14,
       "plays": 171
     },
     {
-      "bucket": 15,
-      "plays": 291
-    },
-    {
-      "bucket": 16,
-      "plays": 558
-    },
-    {
-      "bucket": 17,
-      "plays": 458
-    },
-    {
-      "bucket": 18,
-      "plays": 305
-    },
-    {
-      "bucket": 19,
-      "plays": 248
-    },
-    {
-      "bucket": 20,
-      "plays": 294
-    },
-    {
-      "bucket": 21,
+      "bucket": 14,
       "plays": 269
     },
     {
+      "bucket": 15,
+      "plays": 351
+    },
+    {
+      "bucket": 16,
+      "plays": 421
+    },
+    {
+      "bucket": 17,
+      "plays": 471
+    },
+    {
+      "bucket": 18,
+      "plays": 314
+    },
+    {
+      "bucket": 19,
+      "plays": 247
+    },
+    {
+      "bucket": 20,
+      "plays": 311
+    },
+    {
+      "bucket": 21,
+      "plays": 173
+    },
+    {
       "bucket": 22,
-      "plays": 104
+      "plays": 80
     },
     {
       "bucket": 23,
-      "plays": 58
+      "plays": 30
     }
   ],
   "plays_by_weekday": [
@@ -20683,15 +20683,15 @@
     },
     {
       "bucket": 2,
-      "plays": 555
+      "plays": 556
     },
     {
       "bucket": 3,
-      "plays": 636
+      "plays": 644
     },
     {
       "bucket": 4,
-      "plays": 684
+      "plays": 675
     },
     {
       "bucket": 5,
@@ -21186,12 +21186,12 @@
     {
       "month": 10,
       "day": 10,
-      "plays": 23
+      "plays": 24
     },
     {
       "month": 10,
       "day": 11,
-      "plays": 27
+      "plays": 26
     },
     {
       "month": 10,
@@ -21221,12 +21221,12 @@
     {
       "month": 10,
       "day": 18,
-      "plays": 16
+      "plays": 25
     },
     {
       "month": 10,
       "day": 19,
-      "plays": 35
+      "plays": 26
     },
     {
       "month": 10,

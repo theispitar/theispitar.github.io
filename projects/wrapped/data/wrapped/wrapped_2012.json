@@ -1,6 +1,6 @@
 {
   "year": 2012,
-  "generated_at": "2026-01-07T10:09:21.161814+00:00",
+  "generated_at": "2026-01-13T01:25:40.703647+00:00",
   "total_plays": 25201,
   "total_play_time_ms": 6270166065,
   "unique_artists": 163,
@@ -50839,10 +50839,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2012-01-03T00:05:56+11:00",
-  "last_play": "2012-12-31T17:41:34+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2012-01-02T23:05:56+00:00",
+  "last_play": "2012-12-31T16:41:34+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Opeth",
@@ -51025,11 +51025,11 @@
   "plays_by_month": [
     {
       "bucket": 1,
-      "plays": 2249
+      "plays": 2253
     },
     {
       "bucket": 2,
-      "plays": 2320
+      "plays": 2316
     },
     {
       "bucket": 3,
@@ -51075,121 +51075,121 @@
   "plays_by_hour": [
     {
       "bucket": 0,
-      "plays": 95
+      "plays": 58
     },
     {
       "bucket": 1,
-      "plays": 35
+      "plays": 32
     },
     {
       "bucket": 2,
-      "plays": 16
-    },
-    {
-      "bucket": 3,
       "plays": 0
     },
     {
-      "bucket": 4,
+      "bucket": 3,
       "plays": 7
     },
     {
+      "bucket": 4,
+      "plays": 0
+    },
+    {
       "bucket": 5,
-      "plays": 6
+      "plays": 8
     },
     {
       "bucket": 6,
-      "plays": 20
+      "plays": 46
     },
     {
       "bucket": 7,
-      "plays": 181
+      "plays": 360
     },
     {
       "bucket": 8,
-      "plays": 626
+      "plays": 939
     },
     {
       "bucket": 9,
-      "plays": 1810
+      "plays": 2679
     },
     {
       "bucket": 10,
-      "plays": 2901
+      "plays": 3027
     },
     {
       "bucket": 11,
-      "plays": 3017
+      "plays": 2894
     },
     {
       "bucket": 12,
-      "plays": 2571
+      "plays": 2368
     },
     {
       "bucket": 13,
-      "plays": 2492
+      "plays": 2510
     },
     {
       "bucket": 14,
-      "plays": 2614
+      "plays": 2662
     },
     {
       "bucket": 15,
-      "plays": 2682
+      "plays": 2645
     },
     {
       "bucket": 16,
-      "plays": 2492
+      "plays": 2164
     },
     {
       "bucket": 17,
-      "plays": 1255
+      "plays": 599
     },
     {
       "bucket": 18,
-      "plays": 426
+      "plays": 375
     },
     {
       "bucket": 19,
-      "plays": 377
+      "plays": 399
     },
     {
       "bucket": 20,
-      "plays": 445
+      "plays": 424
     },
     {
       "bucket": 21,
-      "plays": 475
+      "plays": 457
     },
     {
       "bucket": 22,
-      "plays": 440
+      "plays": 372
     },
     {
       "bucket": 23,
-      "plays": 218
+      "plays": 176
     }
   ],
   "plays_by_weekday": [
     {
       "bucket": 0,
-      "plays": 4300
+      "plays": 4305
     },
     {
       "bucket": 1,
-      "plays": 5619
+      "plays": 5608
     },
     {
       "bucket": 2,
-      "plays": 4811
+      "plays": 4824
     },
     {
       "bucket": 3,
-      "plays": 4730
+      "plays": 4723
     },
     {
       "bucket": 4,
-      "plays": 4130
+      "plays": 4120
     },
     {
       "bucket": 5,
@@ -51197,14 +51197,19 @@
     },
     {
       "bucket": 6,
-      "plays": 995
+      "plays": 1005
     }
   ],
   "plays_heatmap": [
     {
       "month": 1,
+      "day": 2,
+      "plays": 5
+    },
+    {
+      "month": 1,
       "day": 3,
-      "plays": 121
+      "plays": 116
     },
     {
       "month": 1,
@@ -51244,12 +51249,12 @@
     {
       "month": 1,
       "day": 11,
-      "plays": 73
+      "plays": 77
     },
     {
       "month": 1,
       "day": 12,
-      "plays": 75
+      "plays": 71
     },
     {
       "month": 1,
@@ -51344,12 +51349,12 @@
     {
       "month": 1,
       "day": 31,
-      "plays": 83
+      "plays": 87
     },
     {
       "month": 2,
       "day": 1,
-      "plays": 78
+      "plays": 74
     },
     {
       "month": 2,
@@ -51424,12 +51429,12 @@
     {
       "month": 2,
       "day": 16,
-      "plays": 98
+      "plays": 100
     },
     {
       "month": 2,
       "day": 17,
-      "plays": 64
+      "plays": 62
     },
     {
       "month": 2,
@@ -51544,12 +51549,12 @@
     {
       "month": 3,
       "day": 12,
-      "plays": 80
+      "plays": 90
     },
     {
       "month": 3,
       "day": 13,
-      "plays": 86
+      "plays": 76
     },
     {
       "month": 3,
@@ -51574,12 +51579,12 @@
     {
       "month": 3,
       "day": 18,
-      "plays": 20
+      "plays": 30
     },
     {
       "month": 3,
       "day": 19,
-      "plays": 66
+      "plays": 56
     },
     {
       "month": 3,
@@ -51594,12 +51599,12 @@
     {
       "month": 3,
       "day": 22,
-      "plays": 230
+      "plays": 234
     },
     {
       "month": 3,
       "day": 23,
-      "plays": 99
+      "plays": 95
     },
     {
       "month": 3,
@@ -52544,12 +52549,12 @@
     {
       "month": 10,
       "day": 18,
-      "plays": 21
+      "plays": 25
     },
     {
       "month": 10,
       "day": 19,
-      "plays": 59
+      "plays": 55
     },
     {
       "month": 10,
@@ -52764,12 +52769,12 @@
     {
       "month": 12,
       "day": 5,
-      "plays": 71
+      "plays": 84
     },
     {
       "month": 12,
       "day": 6,
-      "plays": 77
+      "plays": 64
     },
     {
       "month": 12,
@@ -52864,7 +52869,7 @@
   ],
   "most_played_day": {
     "bucket": "2012-03-22",
-    "plays": 230
+    "plays": 234
   },
   "longest_streak": {
     "length": 68,
@@ -52930,7 +52935,7 @@
       "top_genres": [
         {
           "name": "soundtrack",
-          "plays": 640
+          "plays": 642
         },
         {
           "name": "rock",
@@ -52946,7 +52951,7 @@
         },
         {
           "name": "instrumental",
-          "plays": 366
+          "plays": 370
         }
       ]
     },
@@ -52960,7 +52965,7 @@
         },
         {
           "name": "soundtrack",
-          "plays": 665
+          "plays": 663
         },
         {
           "name": "rock",

@@ -88,7 +88,7 @@ const currentYear = new Date().getFullYear();
 const fallbackYearOptions = Array.from({ length: 6 }, (_, idx) => currentYear - idx);
 
 function populateYearOptions(entries, selectedYear) {
-  yearSelect.innerHTML = "";
+  yearSelect.replaceChildren();
   entries.forEach(({ year, available }) => {
     const opt = document.createElement("option");
     opt.value = year;
@@ -186,43 +186,86 @@ function ensureCursorTooltipPositioner() {
 }
 
 function renderList(container, items, imageLookup, prevLookup, startRank = 1) {
-  container.innerHTML = "";
+  container.replaceChildren();
   items.forEach((item, idx) => {
     const div = document.createElement("div");
     div.className = "list-item";
     const artPath = imageLookup ? imageLookup(item) : null;
-    const thumb = artPath
-      ? `<img class="thumb" src="${artPath}" alt="${item.name} artwork" />`
-      : "";
     const prevVal = prevLookup ? prevLookup(item) : 0;
-    let deltaBadge = "";
+    const currPlays = Number(item?.plays || 0);
+    let deltaBadge = null;
     if (prevLookup) {
-      const diff = (item.plays || 0) - (prevVal || 0);
+      const diff = currPlays - (prevVal || 0);
       if (diff !== 0) {
         const deltaClass = diff < 0 ? "negative" : "positive";
         const deltaLabel = diff < 0 ? "Down vs last year" : "Up vs last year";
-        deltaBadge = `<span class="delta-arrow ${deltaClass}" aria-label="${deltaLabel}"></span>`;
+        const badge = document.createElement("span");
+        badge.className = `delta-arrow ${deltaClass}`;
+        badge.setAttribute("aria-label", deltaLabel);
+        deltaBadge = badge;
       }
     }
-    div.innerHTML = `<span style="display:flex;align-items:center;gap:6px;"><span class="rank">${idx + startRank}.</span> ${thumb}${item.name}</span><span class="plays">${deltaBadge} ${item.plays.toLocaleString()}</span>`;
+
+    const leftWrap = document.createElement("span");
+    leftWrap.style.display = "flex";
+    leftWrap.style.alignItems = "center";
+    leftWrap.style.gap = "6px";
+
+    const rank = document.createElement("span");
+    rank.className = "rank";
+    rank.textContent = `${idx + startRank}.`;
+    leftWrap.appendChild(rank);
+
+    if (artPath) {
+      const thumb = document.createElement("img");
+      const itemName = item?.name || "";
+      thumb.className = "thumb";
+      thumb.src = artPath;
+      thumb.alt = itemName ? `${itemName} artwork` : "Artwork";
+      leftWrap.appendChild(thumb);
+    }
+
+    leftWrap.appendChild(document.createTextNode(item?.name || ""));
+
+    const plays = document.createElement("span");
+    plays.className = "plays";
+    if (deltaBadge) {
+      plays.appendChild(deltaBadge);
+    }
+    const playsText = Number.isFinite(currPlays) ? currPlays.toLocaleString() : "-";
+    plays.appendChild(document.createTextNode(deltaBadge ? ` ${playsText}` : playsText));
+
+    div.appendChild(leftWrap);
+    div.appendChild(plays);
     container.appendChild(div);
   });
 }
 
 function renderGenreSpotlight(container, items, prevMap) {
   if (!container) return;
-  container.innerHTML = "";
+  container.replaceChildren();
   (items || []).slice(0, 5).forEach((item, idx) => {
     const card = document.createElement("div");
     card.className = "genre-card";
     const prevPlays = prevMap ? prevMap.get((item?.name || "").toLowerCase()) || 0 : 0;
     const delta = prevMap ? formatDelta(item?.plays || 0, prevPlays) : "";
-    card.innerHTML = `
-      <div class="genre-rank">#${idx + 1}</div>
-      <div class="genre-name">${item?.name || "-"}</div>
-      <div class="genre-plays">${(item?.plays || 0).toLocaleString()} plays</div>
-      <div class="genre-delta">${delta}</div>
-    `;
+    const rank = document.createElement("div");
+    rank.className = "genre-rank";
+    rank.textContent = `#${idx + 1}`;
+
+    const name = document.createElement("div");
+    name.className = "genre-name";
+    name.textContent = item?.name || "-";
+
+    const plays = document.createElement("div");
+    plays.className = "genre-plays";
+    plays.textContent = `${(item?.plays || 0).toLocaleString()} plays`;
+
+    const deltaEl = document.createElement("div");
+    deltaEl.className = "genre-delta";
+    deltaEl.textContent = delta;
+
+    card.append(rank, name, plays, deltaEl);
     container.appendChild(card);
   });
 }
@@ -304,17 +347,27 @@ function renderGenreTimelineChart(canvas, topGenres, byMonthEntries) {
 
 function renderGenreShareBars(container, items, totalPlays) {
   if (!container) return;
-  container.innerHTML = "";
+  container.replaceChildren();
   (items || []).slice(0, 5).forEach((item) => {
     const plays = item?.plays || 0;
     const pct = totalPlays ? Math.round((plays / totalPlays) * 100) : 0;
     const row = document.createElement("div");
     row.className = "genre-share-row";
-    row.innerHTML = `
-      <div class="genre-share-label">${item?.name || "-"}</div>
-      <div class="genre-share-bar"><span style="width:${pct}%"></span></div>
-      <div class="genre-share-value">${pct}%</div>
-    `;
+    const label = document.createElement("div");
+    label.className = "genre-share-label";
+    label.textContent = item?.name || "-";
+
+    const bar = document.createElement("div");
+    bar.className = "genre-share-bar";
+    const barFill = document.createElement("span");
+    barFill.style.width = `${pct}%`;
+    bar.appendChild(barFill);
+
+    const value = document.createElement("div");
+    value.className = "genre-share-value";
+    value.textContent = `${pct}%`;
+
+    row.append(label, bar, value);
     container.appendChild(row);
   });
 }
@@ -1081,7 +1134,9 @@ async function loadYear(year, options = {}) {
     [tracksEl, spotlightArtistsCountEl, spotlightAlbumsCountEl, spotlightTracksCountEl]
       .filter(Boolean)
       .forEach(el => el.textContent = "-");
-    [topArtistsEl, topTracksEl, topAlbumsEl, genreSpotlightEl, genreShareBarsEl].filter(Boolean).forEach(el => el.innerHTML = "");
+    [topArtistsEl, topTracksEl, topAlbumsEl, genreSpotlightEl, genreShareBarsEl]
+      .filter(Boolean)
+      .forEach(el => el.replaceChildren());
     if (genreTimelineChart) {
       genreTimelineChart.destroy();
       genreTimelineChart = null;

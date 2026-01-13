@@ -1,6 +1,6 @@
 {
   "year": 2023,
-  "generated_at": "2026-01-07T10:09:29.454131+00:00",
+  "generated_at": "2026-01-13T01:25:49.782702+00:00",
   "total_plays": 4421,
   "total_play_time_ms": 1357457952,
   "unique_artists": 106,
@@ -16621,10 +16621,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2023-01-05T08:59:27+11:00",
-  "last_play": "2023-12-30T10:01:30+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2023-01-05T07:59:27+00:00",
+  "last_play": "2023-12-30T09:01:30+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Cattle Decapitation",
@@ -16877,59 +16877,59 @@
     },
     {
       "bucket": 5,
-      "plays": 0
-    },
-    {
-      "bucket": 6,
       "plays": 18
     },
     {
-      "bucket": 7,
+      "bucket": 6,
       "plays": 1
+    },
+    {
+      "bucket": 7,
+      "plays": 3
     },
     {
       "bucket": 8,
-      "plays": 6
+      "plays": 373
     },
     {
       "bucket": 9,
-      "plays": 706
+      "plays": 771
     },
     {
       "bucket": 10,
-      "plays": 766
+      "plays": 667
     },
     {
       "bucket": 11,
-      "plays": 570
+      "plays": 262
     },
     {
       "bucket": 12,
-      "plays": 35
+      "plays": 307
     },
     {
       "bucket": 13,
-      "plays": 544
+      "plays": 595
     },
     {
       "bucket": 14,
-      "plays": 676
+      "plays": 755
     },
     {
       "bucket": 15,
-      "plays": 613
+      "plays": 421
     },
     {
       "bucket": 16,
-      "plays": 369
+      "plays": 214
     },
     {
       "bucket": 17,
-      "plays": 114
+      "plays": 32
     },
     {
       "bucket": 18,
-      "plays": 1
+      "plays": 0
     },
     {
       "bucket": 19,
@@ -16937,11 +16937,11 @@
     },
     {
       "bucket": 20,
-      "plays": 0
+      "plays": 2
     },
     {
       "bucket": 21,
-      "plays": 2
+      "plays": 0
     },
     {
       "bucket": 22,

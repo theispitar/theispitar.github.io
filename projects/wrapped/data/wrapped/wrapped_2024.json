@@ -1,6 +1,6 @@
 {
   "year": 2024,
-  "generated_at": "2026-01-07T10:09:30.261622+00:00",
+  "generated_at": "2026-01-13T01:25:50.699126+00:00",
   "total_plays": 7777,
   "total_play_time_ms": 2430280361,
   "unique_artists": 131,
@@ -29949,10 +29949,10 @@
       "plays": 1
     }
   ],
-  "first_play": "2024-01-03T06:08:15+11:00",
-  "last_play": "2024-12-31T20:19:01+11:00",
-  "timezone_offset_hours": 11.0,
-  "timezone_name": "Australia/Melbourne",
+  "first_play": "2024-01-03T05:08:15+00:00",
+  "last_play": "2024-12-31T19:19:01+00:00",
+  "timezone_offset_hours": 10,
+  "timezone_name": null,
   "top_artists": [
     {
       "name": "Cattle Decapitation",
@@ -30201,79 +30201,79 @@
     },
     {
       "bucket": 4,
-      "plays": 2
+      "plays": 3
     },
     {
       "bucket": 5,
-      "plays": 12
+      "plays": 229
     },
     {
       "bucket": 6,
-      "plays": 433
+      "plays": 223
     },
     {
       "bucket": 7,
-      "plays": 30
+      "plays": 46
     },
     {
       "bucket": 8,
-      "plays": 69
+      "plays": 542
     },
     {
       "bucket": 9,
-      "plays": 888
+      "plays": 1119
     },
     {
       "bucket": 10,
-      "plays": 1283
+      "plays": 1079
     },
     {
       "bucket": 11,
-      "plays": 798
+      "plays": 341
     },
     {
       "bucket": 12,
-      "plays": 146
+      "plays": 500
     },
     {
       "bucket": 13,
-      "plays": 780
+      "plays": 963
     },
     {
       "bucket": 14,
-      "plays": 938
+      "plays": 944
     },
     {
       "bucket": 15,
-      "plays": 1050
+      "plays": 1002
     },
     {
       "bucket": 16,
-      "plays": 890
+      "plays": 505
     },
     {
       "bucket": 17,
-      "plays": 278
+      "plays": 119
     },
     {
       "bucket": 18,
-      "plays": 49
+      "plays": 32
     },
     {
       "bucket": 19,
-      "plays": 29
+      "plays": 34
     },
     {
       "bucket": 20,
-      "plays": 36
+      "plays": 39
     },
     {
       "bucket": 21,
-      "plays": 36
+      "plays": 32
     },
     {
       "bucket": 22,
-      "plays": 19
+      "plays": 14
     },
     {
       "bucket": 23,
